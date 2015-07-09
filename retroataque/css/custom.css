@@ -77,3 +77,9 @@ body {
   border-right: 0;
   border-radius: 0 3px 3px 0;
 }
+
+.bg_body{
+  background-color: rgba(0,0,0,0.2);
+  padding: 0 10px;
+  color: #fff; 
+}
