@@ -37,7 +37,7 @@ body {
   height: auto;
   overflow: hidden;
   background-size: 100%;
-  /*background-attachment: fixed;*/
+  background-repeat: no-repeat;
 }
 
 /* Supporting marketing content */
@@ -82,10 +82,4 @@ body {
   background-color: rgba(0,0,0,0.2);
   padding: 10px;
   color: #fff;
-}
-
-
-.post_container{
-  height: 480;
-  overflow: hidden;
 }
