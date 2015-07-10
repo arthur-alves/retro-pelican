@@ -4446,9 +4446,9 @@ input[type="submit"].btn.btn-mini {
 .navbar .nav > .active > a,
 .navbar .nav > .active > a:hover,
 .navbar .nav > .active > a:focus {
-  color: #bbbbbb;
+  color: #fff;
   text-decoration: none;
-  background-color: #bbbbbb;
+  background-color: #6D6D6D;
 }
 
 .navbar .btn-navbar {

@@ -83,3 +83,24 @@ body {
   padding: 10px;
   color: #fff;
 }
+
+/* Improve post read */
+.bg_body_lecture{
+  background-color: rgba(0,0,0,0.5);  
+  text-shadow: 1px 0px #000000;
+  font-size: 15px;
+  padding: 10px;
+  color: #fff;  
+}
+/* BODY POST */
+.body_post{
+  height: 200px;
+  text-shadow: 1px 0px #000000;
+  font-size: 14px;  
+}
+
+
+
+.summary_post{
+  height: 100px;
+}

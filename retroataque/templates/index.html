@@ -6,11 +6,12 @@
     {% for article in articles_page.object_list %}
     <div class="span4 post_container">
       <div class="thumbnail">
-        <img  alt="300x200" src="{{ article.image }}" style="width: 300px; height: 200px;">
-        <div class="caption">
-          <h3>{{ article.title }}</h3>
-          <p> {{ article.summary }}</p>
-          <p> {{ loop.index }}</p>
+        <img  alt="300x200" src="{{ SITEURL }}/theme/img/monster.jpg" style="width: 300px; height: 200px;">
+        <div class="caption body_post" >
+          <h2>{{ article.title }}</h2>
+          <div class="summary_post">
+            <p> {{ article.summary | truncate(100) }}</p> 
+          </div>         
           <p><a href="{{ SITEURL }}/{{ article.url }}" class="btn btn-primary">Leia mais...</a></p>
         </div>
       </div>
@@ -26,7 +27,4 @@
   <hr>
 
 </div> <!-- /container -->
-
-
-
 {% endblock content %}

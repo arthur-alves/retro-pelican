@@ -36,12 +36,12 @@
               <div class="navbar-inner">
                 <div class="container">
                   <ul class="nav">
-                    <li class="active"><a href="#">Home</a></li>
+                    <li class="active"><a href="{{SITEURL}}">Home</a></li>
                     <li><a href="#">Postagens</a></li>
                     <li><a href="#">Tags</a></li>
                     <li><a href="#">Downloads</a></li>
                     <li><a href="#">Sobre</a></li>
-                    <li><a href="#">Contato</a></li>
+                    <li><a href="#"></a></li>
                   </ul>
                 </div>
               </div>
@@ -54,18 +54,18 @@
           <div class="jumbotron">
             <h1>Retro Ataque</h1>
             <p class="lead">Um espaço voltado para todos que buscam sentir as emoções de um verdadeiro desafio na pele!</p>
-            <a class="btn btn-large btn-success" href="#">Enjoy</a>
+            <a class="btn btn-large btn-success" href="#enjoy">Enjoy</a>
           </div>
         </div>
       </div>
-      <hr>
+      <hr id="enjoy">
       {% block content %}
       {% endblock %}
-
-  <div class="footer">
-    <p>© Company 2013</p>
+  <div class="container">
+    <div class="footer">
+      <p>© Company 2013</p>
+    </div>
   </div>
-
     <!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
