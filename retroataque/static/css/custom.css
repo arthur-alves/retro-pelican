@@ -94,12 +94,16 @@ body {
 }
 /* BODY POST */
 .body_post{
-  height: 200px;
-  text-shadow: 1px 0px #000000;
-  font-size: 14px;  
+  height: 200px;  
 }
 
+.body_post p, h2{
+  text-shadow: 1px 1px 2px #000000;    
+}
 
+.body_post a{
+  text-shadow:none;
+}
 
 .summary_post{
   height: 100px;
