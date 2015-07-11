@@ -86,9 +86,9 @@ body {
 
 /* Improve post read */
 .bg_body_lecture{
-  background-color: rgba(0,0,0,0.5);  
-  text-shadow: 1px 0px #000000;
-  font-size: 15px;
+  background-color: rgba(0,0,0,0.2);  
+  text-shadow: 1px 1px 2px #000000;
+  font-size: 18px;
   padding: 10px;
   color: #fff;  
 }
