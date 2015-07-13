@@ -3,6 +3,12 @@ body {
 
 }
 
+@font-face {
+    font-family: teste_retro;
+    src: url(fonts/Sevastopol-Interface-7.ttf);
+}
+
+
 /* Custom container */
 .container {
   margin: 0 auto;
@@ -86,19 +92,19 @@ body {
 
 /* Improve post read */
 .bg_body_lecture{
-  background-color: rgba(0,0,0,0.2);  
+  background-color: rgba(0,0,0,0.2);
   text-shadow: 1px 1px 2px #000000;
   font-size: 18px;
   padding: 10px;
-  color: #fff;  
+  color: #fff;
 }
 /* BODY POST */
 .body_post{
-  height: 200px;  
+  height: 200px;
 }
 
 .body_post p, h2{
-  text-shadow: 1px 1px 2px #000000;    
+  text-shadow: 1px 1px 2px #000000;
 }
 
 .body_post a{
