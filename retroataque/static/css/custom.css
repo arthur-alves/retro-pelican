@@ -103,6 +103,10 @@ body {
   height: 200px;
 }
 
+.body_post h2{
+  height: 40px ;
+}
+
 .body_post p, h2{
   text-shadow: 1px 1px 2px #000000;
 }

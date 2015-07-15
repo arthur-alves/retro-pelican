@@ -7,11 +7,11 @@ Status: published
 image: images/tenchiv.jpg
 
 
-- **Sistema**: Super Nintendo
-- **Categoria**: Estratégia / RPG
-- **Jogadores**: 1
-- **Produtora**: Banpresto
-- **Lançamento**: 27/10/1995
+* **Sistema**: Super Nintendo
+* **Categoria**: Estratégia / RPG
+* **Jogadores**: 1
+* **Produtora**: Banpresto
+* **Lançamento**: 27/10/1995
 
 
 <!-- PELICAN_BEGIN_SUMMARY -->
@@ -28,6 +28,7 @@ palmas aos romhackers!!!
 PO.B.R.E. que é a que eu cito abaixo.</span>
 
 HISTÓRIA:
+
 
 Pra quem conhece a história do anime, o jogo se passa no período do
 mesmo, onde já<span></span>se podem notar, todas as personagens amigas
