@@ -1,10 +1,12 @@
 {% extends "base.html" %}
 {% block content %}
 <div class="container bg_body_lecture">
-    
+    <div class="alert alert-info">
       <h1>{{ article.title }}</h1>
+    </div>
     
 
+{{ article.content }}
 {{ article.content }}
 </div> <!-- /container -->
 {% endblock content %}

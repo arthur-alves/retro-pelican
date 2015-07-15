@@ -4,7 +4,15 @@ Author: junkatana
 Category: Snes
 Slug: tenchi-muyo-game-hen
 Status: published
-Image: http://a.imageshack.us/img833/3922/capabn.jpg
+image: images/tenchiv.jpg
+
+
+- **Sistema**: Super Nintendo
+- **Categoria**: Estratégia / RPG
+- **Jogadores**: 1
+- **Produtora**: Banpresto
+- **Lançamento**: 27/10/1995
+
 
 <!-- PELICAN_BEGIN_SUMMARY -->
 Mais uma análise de SNES, e agora um jogo que nem sequer chegou deste
@@ -12,26 +20,7 @@ lado do ocidente. Trata-se de Tenchi Muyo, um jogo lançado somente no
 Japão. Agora uma pausa aqui para darmos crédito ao primoroso trabalho
 dos romhackers mundial, e isso inclui nós brasileiros. O game foi
 traduzido para Inglês e logo depois para o português, e mais,
-<span></span>com direito a uma ótima adaptação fiel ao anime, nota-se
-isso pelas falas do personagem que segue bem fiel ao anime. Uma salva de
-palmas aos romhackers!!!...
-<!-- PELICAN_END_SUMMARY -->
-
-[![](http://a.imageshack.us/img833/3922/capabn.jpg)](http://a.imageshack.us/img833/3922/capabn.jpg)
-**Sistema**: Super Nintendo
-**Categoria**: Estratégia / RPG
-**Jogadores**: 1
-**Produtora**: Banpresto
-**Lançamento**: 27/10/1995
-
-<span style="font-weight:bold;">TENCHI MUYO – GAME HEN</span>
-
-Mais uma análise de SNES, e agora um jogo que nem sequer chegou deste
-lado do ocidente. Trata-se de Tenchi Muyo, um jogo lançado somente no
-Japão. Agora uma pausa aqui para darmos crédito ao primoroso trabalho
-dos romhackers mundial, e isso inclui nós brasileiros. O game foi
-traduzido para Inglês e logo depois para o português, e mais,
-<span></span>com direito a uma ótima adaptação fiel ao anime, nota-se
+<!-- PELICAN_END_SUMMARY -->com direito a uma ótima adaptação fiel ao anime, nota-se
 isso pelas falas do personagem que segue bem fiel ao anime. Uma salva de
 palmas aos romhackers!!!
 

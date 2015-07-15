@@ -3,10 +3,11 @@
 <div class="container bg_body">
   <!-- Row of columns -->
   <div class="row-fluid">
-    {% for article in articles_page.object_list %}
+    {% for article in articles_page.object_list %}    
     <div class="span4 post_container">
       <div class="thumbnail">
-        <img  alt="300x200" src="{{ article.image }}" style="width: 300px; height: 200px;">
+
+        <img  alt="300x200" src="{{ article.image if article.image else 'http://placehold.it/300x200' }}" style="width: 300px; height: 200px;" data-pixelate data-value="0.4">
         <div class="caption body_post" >
           <h2>{{ article.title }}</h2>
           <div class="summary_post">
@@ -25,8 +26,7 @@
   </div>
 
   <hr>
-
-<div class="pagination">
+<div class="pagination pagination-centered">
   <ul>    
     
     {% for num in range( 1, 1 + articles_paginator.num_pages ) %}
