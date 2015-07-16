@@ -9,9 +9,9 @@ Status: published
 Depois de terminar o **Monster World 4,**decidi partir para uma nova
 jornada. E por recomendações de alguns colegas, decidi então jogar o
 primeiro jogo da série VALIS. O jogo foi originalmente desenvolvido para
-MSX em 1986, pela TELENET / Japan.<!-- PELICAN_END_SUMMARY -->
+MSX em 1986, pela TELENET / Japan.
+<!-- PELICAN_END_SUMMARY -->
 
-[![](http://img101.imageshack.us/img101/8255/valiscover.jpg)](http://img101.imageshack.us/img101/8255/valiscover.jpg)
 
 **HISTÓRIA:**
 
@@ -87,5 +87,4 @@ Parabéns também para aos tradutores Lynx e Alucard do grupo IPS Center,
 tradução em Inglês. Para quem se interessar segue o link da página de
 download.
 
-[Link: Tradução Valis: The fantasm
-Soldier](http://www.romhackers.org/modules/PDdownloads/singlefile.php?cid=21&lid=628)
+[Link: Tradução Valis: The Fantasm Soldier](http://www.romhackers.org/modules/PDdownloads/singlefile.php?cid=21&lid=628)
