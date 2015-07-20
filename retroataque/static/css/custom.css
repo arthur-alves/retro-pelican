@@ -100,11 +100,8 @@ body {
 }
 /* BODY POST */
 .body_post{
+  position: relative;
   height: 240px;
-}
-
-.post_container{
-
 }
 
 .body_post h2{
@@ -123,7 +120,12 @@ body {
   height: 100px;
 }
 
-.post_container > a{
-  position: relative;
-  top: 30px;
+.summary_post span, p{
+  color: #fff;
+}
+
+.body_post .btn{
+  position: absolute;
+  bottom: 0;
+  cursor: pointer;
 }

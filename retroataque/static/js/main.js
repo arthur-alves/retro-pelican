@@ -14,7 +14,4 @@ $(function() {
   		$("#lighbox_all").attr("data-title", $(this).attr("alt"));
   		$("#lighbox_all").click()
   	});
-    /*Force external link in new tab*/
-    $("a[href^='http']").attr('target','_blank');
-
 })
