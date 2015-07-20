@@ -3723,7 +3723,7 @@ input[type="submit"].btn.btn-mini {
 }
 
 .alert-success {
-  color: #00aa00;
+  color: #ffffff;
   background-color: #000000;
   border-color: #000000;
 }
@@ -5317,7 +5317,6 @@ a.thumbnail:focus {
 }
 
 .thumbnail .caption {
-  padding: 9px;
   color: #FFFFFF;
 }
 

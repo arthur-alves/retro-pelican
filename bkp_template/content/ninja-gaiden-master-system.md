@@ -1,4 +1,4 @@
-Title: NINJA GAIDEN - Master System
+Title: NINJA GAIDEN - SMS
 Date: 2010-06-09 21:17
 Author: junkatana
 Category: Master System

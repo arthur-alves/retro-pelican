@@ -100,7 +100,11 @@ body {
 }
 /* BODY POST */
 .body_post{
-  height: 200px;
+  height: 240px;
+}
+
+.post_container{
+
 }
 
 .body_post h2{
@@ -117,4 +121,9 @@ body {
 
 .summary_post{
   height: 100px;
+}
+
+.post_container > a{
+  position: relative;
+  top: 30px;
 }

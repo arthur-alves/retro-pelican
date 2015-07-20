@@ -1,4 +1,4 @@
-Title: FATAL LABYRINTH - MEGA DRIVE
+Title: FATAL LABYRINTH - MD
 Date: 2010-06-12 15:13
 Author: junkatana
 Category: Mega Drive

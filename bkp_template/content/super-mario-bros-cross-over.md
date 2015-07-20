@@ -1,4 +1,4 @@
-Title: Super Mario Bros. Cross Over
+Title: Super Mario B. Cross Over
 Date: 2010-06-11 01:29
 Author: junkatana
 Category: Curiosidades
@@ -8,9 +8,9 @@ Summary: Estava eu, lendo um blog que acompanho, o blog do amigo
 [Alexmag](http://blog.alexmag.net/) , e vi um vídeo muito interessante.
 Um cara chamado Jay Pavlina criou uma versão de Super Mario Bros. com
 personangens de outros games conhecidos como, megaman, Zelda,
-Castlevania, Metroid e Contra...  
+Castlevania, Metroid e Contra...
 
-[![](http://img267.imageshack.us/img267/2664/capao.png)](http://www.explodingrabbit.com/)  
+[![](http://img267.imageshack.us/img267/2664/capao.png)](http://www.explodingrabbit.com/)
 Estava eu, lendo um blog que acompanho, o blog do amigo
 [Alexmag](http://blog.alexmag.net/) , e vi um vídeo muito interessante.
 Um cara chamado Jay Pavlina criou uma versão de Super Mario Bros. com
@@ -43,26 +43,26 @@ escutá-las novamente. Os efeitos também sãos os mesmos de cada jogo,
 detalhe é que quando acaba o tempo está quase terminando, as músicas
 também se alteram, como por exemplo a de Samus que é mesma quando está
 com o HP baixo. Vou citar as características de cada personagem para que
-você possa ter a idéia de como é:  
-**  
+você possa ter a idéia de como é:
+**
 Mario** possui os mesmos movimentos do jogo original: Pular, correr e a
-velha Bola de Fogo (Uhuu).  
+velha Bola de Fogo (Uhuu).
 <span style="font-weight:bold;"> Link</span> é pequeno e usa sua espada
 e o boomerang, também pode aumentar seu poder de ataque com o cogumelo
-ou a Flor de Fogo.  
+ou a Flor de Fogo.
 <span style="font-weight:bold;"> Bill Rizer</span> utiliza uma
 metralhadora e ela melhora quando ele adquiri um cogumelo(arma 2) e a
-flor de fogo (arma 3), essa última dispara diversos tiros.  
+flor de fogo (arma 3), essa última dispara diversos tiros.
 <span style="font-weight:bold;"> Simon Belmont</span> pode melhorar seu
 chicote para a corrente e depois o de fogo, e também lança o consagrado
 machado da série que destroi os blocos facilmente, é como corta
 manteiga. Um detalhe é que ele possui o mesmo pulo de seu jogo, ou seja,
 você não consegue controlá-lo no ar, mas em compensação possui o pulo
-duplo.  
+duplo.
 <span style="font-weight:bold;"> Megaman</span> usa a sua famosa arma em
 seu braço, quando consegue um cogumelo ele equipa seu capacete e pode
 também carregar o mega buster, e com a flor ele lança o FireShot, que
-também pode ser carregado.  
+também pode ser carregado.
 <span style="font-weight:bold;"> Samus</span> também possui uma arma que
 de início, assim como na série, tem pouco alcance, mas melhora para um
 tiro mais longo com o cogumelo, e o melhor, ela retira a armadura ao

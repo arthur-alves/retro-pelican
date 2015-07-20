@@ -1,4 +1,4 @@
-Title: Alex Kidd in Shinobi World - Master
+Title: Alex Kidd in Shinobi World - SMS
 Date: 2010-06-07 23:39
 Author: junkatana
 Category: Master System
