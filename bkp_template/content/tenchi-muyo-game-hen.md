@@ -4,7 +4,7 @@ Author: junkatana
 Category: Snes
 Slug: tenchi-muyo-game-hen
 Status: published
-image: images/tenchi-muyo/tenchiv.jpg
+image: images/tenchi-muyo-game-hen/tenchiv.jpg
 
 
 * **Sistema**: Super Nintendo
@@ -32,7 +32,7 @@ Pra quem conhece a história do anime, o jogo se passa no mesmo período, onde j
 aquelas conversas giram em torno de garoto. Porém alguns alienígenas
 invadem a casa, e seqüestram Sasami. Ela quer testar a força do grupo, e com o sangue de barata que essas meninas tem não deu outra, unidos do jeito que são e pela vontade de salvar Sasami, eles mais que aceitam o desafio, e começa a batalha no game. Porém isso é só a ponta do “garfo”.
 
-![Tenchi Muyo game](images/tenchi-muyo/gif2dotenchi.gif)
+![Tenchi Muyo game](images/tenchi-muyo-game-hen/gif2dotenchi.gif)
 
 O JOGO:
 
@@ -53,7 +53,7 @@ Washu foram bem feitos. Há ainda algumas animações que são bem legais e
 bem desenhadas. Não há nada a reclamar dos gráficos na minha humilde
 opinião.
 
-![Gráficos Tenchi](images/tenchi-muyo/gifdotenchi2.gif)
+![Gráficos Tenchi](images/tenchi-muyo-game-hen/gifdotenchi2.gif)
 
 SONS:
 

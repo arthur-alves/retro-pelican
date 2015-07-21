@@ -5,14 +5,18 @@ Category: Mega Drive, monster world
 Slug: monster-world-4-final
 Status: published
 
-<span style="font-weight:bold;">Fim de jogo:</span>
 <!-- PELICAN_BEGIN_SUMMARY -->
-Bem pessoal, como prometido, segue a analise completa do jogo Monster
-World 4 depois da árdua batalha, e posso dizer, é um excelente jogo para
-Mega Drive.
+Lembra daquele jogo **Wonderboy**(ou
+Adventure Island)? Pois é, aqui estou eu jogando o sexto e último game
+da série. Mas lançado somente no japão. Graças a nossos RomHackers, este
+jogo está em português. O jogo, diferente dos primeiros para NES, possui
+um "ar" de RPG/plataforma, bem estilo castlevânia, porém com um visual
+mais fofo, fácil de jogar até então.
 <!-- PELICAN_END_SUMMARY -->
-[![](http://img708.imageshack.us/img708/3734/ashaj.jpg)](http://img708.imageshack.us/img708/3734/ashaj.jpg)  
-<span style="font-weight:bold;">A HISTÓRIA:</span>
+
+
+
+A HISTÓRIA:
 
 O jogo conta a história de um planeta chamado Monster World. As pessoas
 viviam em harmonia com as criaturas do planeta. Porém uma outra criatura
@@ -22,22 +26,20 @@ ataques demoníacos diretamente nos corações das pessoas, como medo,
 contava-se que em breve surgiria um herói que acabaria com todo o mal
 nos corações das pessoas, fazendo assim elas retornarem ao estado normal
 em seus corações. Mas ninguém contava que esse herói seria na verdade
-uma heroína. Seu nome é <span style="font-weight:bold;">Asha</span>.
+uma heroína. Seu nome é Asha.
 
-<span style="font-weight:bold;"> O INÍCIO:</span>
+O INÍCIO:
 
-Em um pequeno vilarejo afastado do centro de Rapadagna, <span
-style="font-weight:bold;">Asha</span> vivia com seus pais, mas tudo isso
+Em um pequeno vilarejo afastado do centro de Rapadagna, Asha vivia com seus pais, mas tudo isso
 muda, quando Asha, escuta um chamado, um pedido de ajuda. Ela então
 decide escutar o chamado, e partir em uma jornada, em busca de respostas
 sobre esse chamado inesperado. No caminho ela descobre que o planeta se
 encontra em terrível decadência, pois os quatro espíritos protetores
 fora aprisionado por um plano malévolo da criatura das trevas. A partir
-daí começa a verdadeira batalha de<span style="font-weight:bold;">
-Asha</span> contra o mal que a criatura causava nos corações das
+daí começa a verdadeira batalha de Asha contra o mal que a criatura causava nos corações das
 pessoas.
 
-<span style="font-weight:bold;">O JOGO:</span>
+O JOGO:
 
 O jogo possui vários detalhes que o tornam, na minha humilde opinião, um
 excelente jogo. Realmente se nota o esforço da equipe da SEGA no game.
@@ -61,17 +63,32 @@ como se defender com escudo, sua espada bate em várias direções quando
 você pula, e também vive interagindo com o Pepelogo. Ela o carrega, ela
 o joga, e vice-versa, mas ele não bate em monstros, apesar de defender
 você de alguns. O jogo também conta com uma ótima jogabilidade, não
-deixando você na mão como muitos jogos fazem.  
+deixando você na mão como muitos jogos fazem.
 Outra coisa é a AI dos inimigos, é bem legal, existem alguns inimigos e
 chefes que defendem ataques por todos os lados, e são mais chatos de se
 abaterem, isso com certeza torna as coisas mais interessantes e
-desafiadoras.  
+desafiadoras.
 Enfim resumindo, Monster World 4 (Wonder boy 6) é o último game da série
 e um excelente jogo, recomendo a todos, pois o jogo é fácil no começo,
 mas depois aumenta bastante o desafio, que gosta de exploração a - lá
-Metroid ou Castlevania vai gostar.  
+Metroid ou Castlevania vai gostar.
 Ponto para a WestOne / SEGA.
 
 Imagens:
 
-[![](http://img241.imageshack.us/img241/644/gameplay.gif)](http://img241.imageshack.us/img241/644/gameplay.gif)
+
+CURIOSIDADES:
+
+Pepelogos
+
+Mais alguns detalhes do jogo. Temos um amiguinho com nome de Pepelogoos
+(Urgh), cara de gato, corpo do Kirby, e funções de bugiganga
+multi-funcional. Realmente ele faz de tudo desde apagar velas, servir de
+escudo contra fogo, planar com você, te salvar do afogamento, ativar
+interruptor e ainda tem uma habilidade parecida com um pulo-duplo, onde
+você faz um combo com ele. Tá ai um mascote que é realmente útil, vai
+com você até a morte (Sem ofensas Yoshi ). Outra coisa legal, é que ele
+cresce no decorrer da jornada, quando se alimenta de uma fruta do jardim
+secreto, e só de vez em quando você faz isso, ou seja, ele não fica como
+um tamagoshi pedindo comida, mas em compensação ele fica mais pesado
+também, como vocês podem conferir abaixo nas fotos.

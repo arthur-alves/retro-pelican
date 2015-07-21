@@ -11,7 +11,7 @@ mais leve como "Alex Kidd in Shinobi World" para Master System. Só não
 sabia que era tão leve, em menos de 30 minutos (Oo??) o jogo se foi. Mas
 tudo bem, segue aqui um post com mais detalhes.
 <!-- PELICAN_END_SUMMARY -->
-[![](http://img7.imageshack.us/img7/2275/capaab.jpg)](http://img7.imageshack.us/img7/2275/capaab.jpg)
+![Box](http://img7.imageshack.us/img7/2275/capaab.jpg)
 
 <span style="font-weight:bold;">História:</span>
 
