@@ -98,6 +98,11 @@ body {
   padding: 10px;
   color: #fff;
 }
+
+.post_box{
+  float: left;
+}
+
 /* BODY POST */
 .body_post{
   position: relative;

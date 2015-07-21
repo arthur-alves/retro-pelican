@@ -1,13 +1,21 @@
-Title: FATAL LABYRINTH - MD
+Title: Fatal Labyrinth - MD
 Date: 2010-06-12 15:13
 Author: junkatana
 Category: Mega Drive
 Slug: fatal-labyrinth-mega-drive
 Status: published
 
+- **Título:** Fatal Labyrinth
+- **Console:** Megadrive/Genesis  
+- **Fabricante:** SEGA
+- **Ano:** 1990  JP
+- **Categoria:** RPG/AÇÃO  
+- **Número de Jogadores:** 1  
+- **Autor do review:** Junkatana
+ 
 
-[![](http://img31.imageshack.us/img31/1381/fatallabyrinth.jpg)](http://img31.imageshack.us/img31/1381/fatallabyrinth.jpg)<span
-style="font-weight:bold;">
+<a class="post_box" href="http://img31.imageshack.us/img31/1381/fatallabyrinth.jpg"></a>
+
 <!-- PELICAN_BEGIN_SUMMARY -->
 Queria variar um pouco na minha jogatina, então decidi
 jogar um título totalmente diferente do que estamos acostumados a ver,
@@ -17,7 +25,7 @@ Depois que vi esse jogo, lembrei-me que já o tinha jogado quando era bem
 mais novo, mas na época não fui com a cara dele. Finalizei o game, e
 agora segue sua análise.
 
-<span style="font-weight:bold;">HISTÓRIA:</span>
+HISTÓRIA:
 
 Em uma pacata vila, os habitantes viviam em paz e harmonia. Porém,
 Dragonia o Castelo das trevas, ressurgiu trazendo uma era de trevas,
@@ -27,15 +35,17 @@ trevas, que é o mentor deste plano terrível, e só ele é capaz de
 modificar o estado atual do planeta. A história é clichê, mas pelo menos
 não tem princesa para salvar (rsrsr).
 
-</span>[![](http://img532.imageshack.us/img532/7385/fatallabyrinth1copy.png)](http://img532.imageshack.us/img532/7385/fatallabyrinth1copy.png)[![](http://img31.imageshack.us/img31/8364/fatallabyrinthwcopy.png)](http://img31.imageshack.us/img31/8364/fatallabyrinthwcopy.png)
-<span>
-<span style="font-weight:bold;">O JOGO:</span>
+![Fatal labyrinth](http://img31.imageshack.us/img31/8364/fatallabyrinthwcopy.png)
 
-</span><span>Fatal Labyrinth é um jogo nos moldes de RPG/AÇÃO, porém é
+
+
+O JOGO:
+
+Fatal Labyrinth é um jogo nos moldes de RPG/AÇÃO, porém é
 bastante original em sua forma de jogar. Começando pelas batalhas, você
 não precisa apertar nenhum botão para acertar os inimigos, basta colocar
 para o lado dele que você o acerta. A forma de se mover com o personagem
-é como em RPG's antigos mesmo, você</span> não se move nas diagonais. O
+é como em RPG's antigos mesmo, você não se move nas diagonais. O
 modo de batalha é um pouco cansativo, mas não o achei chato. O problema
 aqui é que seu personagem erra muito o alvo, sem contar quando ele se
 defende. E falando em batalhas, o jogo conta com uma considerável
@@ -82,4 +92,4 @@ investido, mas não o jogaria novamente( Pareço louco não? rsrs). Mas é
 isso, provavelmente muitas pessoas, nem se quer tocariam neste game, mas
 eu o finalizei como queria, e agora faz parte do Retro Ataque.
 
-[![](http://img99.imageshack.us/img99/5341/fatallabyrinthw013copy.png)](http://img99.imageshack.us/img99/5341/fatallabyrinthw013copy.png)[![](http://img194.imageshack.us/img194/7841/fatallabyrinthw028copy.png)](http://img194.imageshack.us/img194/7841/fatallabyrinthw028copy.png)[![](http://img704.imageshack.us/img704/9769/fatallabyrinthw032copy.png)](http://img704.imageshack.us/img704/9769/fatallabyrinthw032copy.png)[![](http://img715.imageshack.us/img715/5273/fatallabyrinthw033copy.png)](http://img715.imageshack.us/img715/5273/fatallabyrinthw033copy.png)
+![Falta MD](http://img99.imageshack.us/img99/5341/fatallabyrinthw013copy.png)![Falta MD](http://img194.imageshack.us/img194/7841/fatallabyrinthw028copy.png)![Falta MD](http://img704.imageshack.us/img704/9769/fatallabyrinthw032copy.png)![Falta MD](http://img715.imageshack.us/img715/5273/fatallabyrinthw033copy.png)

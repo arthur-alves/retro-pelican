@@ -1,0 +1,162 @@
+ Written by: Kyle Long
+Edited by: Jay Pavlina
+
+TABLE OF CONTENTS
+
+I.Introduction
+II.Basic Controls
+III.The Characters
+IV.Trivia
+V.Special Thanks
+I.INTRODUCTION
+
+Super Mario Bros. Crossover is a faithful recreation of the original Super Mario Bros. NES game. However, In this flash game, you can play through SMB as 5 other characters besides the mustashed Mario!
+
+Note: You can save your game, which makes getting through it much easier.
+II.BASIC CONTROLS
+
+Now, controls are different for all characters, but we'll get into that later. There is a nifty tutorial to let you know what the buttons do, but to re-iterate, I will tell you what they do beforehand. All you need to know is that the game is played with 7 keys on a keyboard (you can also play on a gamepad), the default keys are...
+
+Z Key:Jump / (Select On Menus)
+X Key: Run(Mario Only)/Attack
+S Key: Special Attacks (Certain Characters Only)
+Left,Right,and Down Arrow Keys: Moving Left and Right/ Ducking
+1 Key: Pause Game
+
+The good news is, these controls can be customized to fit your way of playing! So however you want to play with any of these charaters is how YOU decide.
+
+How To Save Your Game: (On the Pause Screen, You can Save your game to a txt file, saving the level you were at when you saved, as well as all your power-ups and lives. The game has a load option at the title screen, so make sure you save the document before you close or leave the game.)
+III.CHARACTERS
+
+In Super Mario Bros. Crossover, you have the option as playing as Mario (which would be the same as regular SMB, so it's a bit boring, but the option is still there), Link (from the Legnd of Zelda Series), Bill R. (from the first Contra game), Simon Belmont (from the first Castlevania game), Mega Man (from the Mega Man series, my personal favorite), and Samus Aran (from the Metroid Series). Each character can play through SMB in a their unique way. They have different play controls, and I have their details written here for your information.
+
+Mario
+Mario is pretty standard. You Run, Jump, and Swim your way through the Mushroom Kingdom on your way to save the princess.
+
+Z=Jump
+X=Run
+S=N/A
+Fire Flower attack=Fireball
+
+Forms: Mario/Super Mario/Fire Flower Mario
+Notes: None here.
+
+Link
+Now here's an interesting character. Like I said, each character plays differently, so you can dash through the Mushroom Kingdom as the Hero of Time (Link) if you wanted to.
+
+Z=Jump/ While Jumping, hold attack and up or down to do an upward or downward slash
+X=Sword Attack
+S=Boomerang
+Fire Fower Attack=Shoot Sword
+
+Froms:Link/White Tunic Link/Red Tunic Link
+
+Notes:Link is short, no matter what form he's in, so you'll have no trouble dodging things and entering small passages. His boomerang stuns enemies, which is really helpful.
+
+Bill Rizer
+Here's where things are REALLY different from a Mario game. Bill from Contra is no stranger to enemies, but he's packing firepower, and by that I mean guns. He can fire his gun in all 8 directions, he can duck, and is generally a fairly good character.
+
+Z=Jump
+X=Fire Gun
+S=N/A
+Fire Flower Attack=Spread Shot(WOO HOO!)
+
+Forms:Bill(regular gun)/Machine Gun/Spread Shot
+
+Notes: The spread shot is the most godly weapon in the game, and playing with Bill is generally very easy. The only thing holding him back is his jump control, which is somewhat hard to handle.
+
+Simon Belmont
+Unless you've played Castlevania, Simon's jumping mechanics may throw you for a loop. It certainly takes some time to get used to, but his unlimited axes and double-jump(THANK GOD) make up for it, IMO.
+
+Z=Jump (again, for double-jump)
+X=Whip
+S=Throw Axe
+Fire Flower Attack=Flaming Whip
+
+Forms:Simon/Chain Whip/Flaming Whip
+
+Notes:Like I said, Jumping mechanics WILL KILL YOU. Just be cautious, and use your axes to take out faraway enemis and TONS of blocks. This thing hacks through everything, and when in from 3, you can throw 3 of them one after another.
+
+Mega Man
+I'm a ture blue bomber fanatic, and so my first playthrough of the game was Mega Man alone. It's always fun playing as him, he's very well-rounded, and I see no real errors in the way he plays. Except maybe that the slide is SLIGHTLY too long. It led me into a pit by accident once or twice.
+
+Z=Jump
+X=Shoot/ Hold for Charge Shot (with helmet)
+S=N/A
+Fire Flower Attack=Fire Storm
+
+Forms=Helmetless Mega Man/MM with Helmet/Fire Storm
+
+Notes:If you have never played a Mega Man game, SHAME ON YOU. He's quite easy to control, and fits snugly in my gaming grasp.
+
+Samus Aran
+Pretty fun to play as. Samus is from Metroid and she's the original kickass bounty hunter.
+
+Z=Jump
+X=Shoot/ Lay Bomb while in Morph Ball Mode
+S=N/A
+Fire Flower Attack=Wave Beam
+
+Forms:Samus/Long Beam/Armorless with Wave Beam
+
+Notes: Form 3 Samus is sweet, and she's actually very good in this game. Great attack range, jumps really high, etc. I don't have much to say about her awesomenss, but I think you get the picture.
+IV:TRIVIA
+
+Oh man, the nostalgia factor is extremely high in this game, and everything from Music/Sound Effects, and control style pays tribute to the characters in their original games, so let's get to it!
+
+-MUSIC FOR DIFFERENT CHARACTERS
+Normal Music (this music occurs no matter who's playing)
+The Title Screen, Character Select Screen/Starman Invincibility, and defeating Bowser/Clearing a Castle
+Note:All Losing Lives themes are from their respective games, so I won't list them since they're obvious.
+
+Link
+Character Select: Item Get
+Level Music: Overworld Theme
+Undeground: Zelda 2 Temple Theme
+Underwater: Title Screen
+Boss Level: Ganon Final Boss Theme
+Time Running Out: Low Hearts Beeping
+Finishing Level: Dungeon Cleared
+
+Bill Rizer
+Character Select: Starting a New Game
+Level Music: Jungle (stage 1) Theme
+Underground: Base (Stage 2) Theme
+Underwater: Energy Zone Theme
+Boss Level: Alien's Lair/ Final Boss Theme
+Time Running Out: Alarm (I'm not sure)
+Finishing Level: Stage Clear
+
+Simon Belmont
+Character Select: Entering The Castle/ Starting a New Game
+Level Music: Stage 1 theme
+Underground: Castlevania 2 Daytime Overworld
+Underwater: Stage 3 Theme
+Boss Level: Final Boss
+Time Running Out: Boss Theme (My favorite)
+Finishing Level: Level Clear
+
+Mega Man
+Character Select: Robot Master Select
+Level Music: Mega Man 3 Title Screen (My favorite)
+Underground: Flash Man
+Underwater: Bubble Man
+Boss Level: MM2 Boss Theme
+Time Running Out: MM2 Get Equipped With Theme
+Finishing Level: Level Clear
+
+Samus Aran
+Character Select: Starting A New Game
+Level Music: Brinstar
+Underground: Brinstar Depths (My favorite)
+Underwater: Norfair
+Boss Level: Tourian
+Time Running Out: Low Health
+Finishing Level: Item Get
+
+-As Jay noted in the description of the game, don't touch the flagpole while having invincibility. It's one of the few bugs that are left. Along with the missing floor bug, which Jay says will be fixed soon. It's HILARIOUS when it happens though :)
+V:SPECIAL THANKS
+
+1.Jay Pavlina, for taking his sweet time just to make people happy. You realize dreams man, and you deserve recognition for your efforts.
+2.Nintendo, Capcom, and Konami, for making such wonderful games (please don't sue Jay, he's a loving fan, not a copyright infringer.)
+3.You, the reader. Thanks for putting up with my nostalgia-crazed rants.
