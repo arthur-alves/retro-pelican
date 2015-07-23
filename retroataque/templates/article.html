@@ -4,7 +4,29 @@
     <div class="alert alert-info">
       <h1>{{ article.title }}</h1>
     </div>
-    
+    <div class="row-fluid">
+		<table class="table table-striped">
+		 	<thead>
+		 		<tr>
+		 			<th>Capa:</th>
+		 			<th>Informações</th>
+		 		</tr>
+
+		 	</thead>
+			<tbody>
+				<tr>
+					<td>
+						<img  alt="300x200" src="{{ article.image if article.image else 'http://placehold.it/300x200' }}" style="width: 300px;" data-pixelate data-value="0.4">
+					</td>
+					<td>
+						Testes
+					</td>
+				</tr>
+			</tbody>
+		</table>
+
+    </div>
+
 {{ article.content }}
 </div> <!-- /container -->
 <a href="images/tenchi-muyo/gifdotenchi2.gif" data-lightbox="image" id="lighbox_all" data-title="My caption"></a>

@@ -4,10 +4,8 @@ Author: junkatana
 Category: Mega Drive
 Slug: fatal-labyrinth-mega-drive
 Status: published
+Image: images/fatal-labyrinth-mega-drive/fatallabyrinth.jpg
 
-
-[![](http://img31.imageshack.us/img31/1381/fatallabyrinth.jpg)](http://img31.imageshack.us/img31/1381/fatallabyrinth.jpg)<span
-style="font-weight:bold;">
 <!-- PELICAN_BEGIN_SUMMARY -->
 Queria variar um pouco na minha jogatina, então decidi
 jogar um título totalmente diferente do que estamos acostumados a ver,

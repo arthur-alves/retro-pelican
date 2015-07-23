@@ -15,8 +15,9 @@ Quanto tempo não pessoal?! Pois ém, tive um problemão com a operadora da
 minha NET, mas decidi postar mais um detonado meu, o BLACKTHORNE, um
 jogaço do Super Nintendo. Quem não se lembra desse maguinífico jogo?
 <!-- PELICAN_END_SUMMARY -->
-<span style="font-weight:bold;">HISTÓRIA:</span> ( História por trás do
-game retirada do Wikipédia)
+
+HISTÓRIA:
+
 
 Blackthorne se passa no planeta Tuul. Thoros, o último governante,
 encontra-se em um dilema sobre qual de seus dois herdeiros deve ser o
@@ -42,9 +43,9 @@ Tuul e salvar seu povo do domínio de Sarlac.
 Obs: retirei essa história pois no game não explica como começou tudo,
 mas mostra o decorrer a partir daí.
 
-[![](http://a.imageshack.us/img97/1760/balckgifs.gif)](http://a.imageshack.us/img97/1760/balckgifs.gif)
+![blackthorne](images/blackthorne/balckgifs.gif)
 
-<span style="font-weight:bold;">JOGABILIDADE:</span>
+JOGABILIDADE:
 
 Agora minha parte: Como pode ser visto acima, você começa no meio da
 bagunça dessa guerra. Na verdade parece mais uma luta entre Orc's e
@@ -97,7 +98,7 @@ excelente game para SNES. Ponto para a Blizzard, mesma produtora de
 Warcraft, e Interplay, responsável pelas melhores animações da geração
 passada. Altamente Recomendado.
 
-<span style="font-weight:bold;">Nota:</span> Pessoal em breve eu estarei
+Nota: Pessoal em breve eu estarei
 de volta com mais jogos, espero que me perdoem por esse enorme atraso.
 
 Abraços.
