@@ -53,7 +53,7 @@ Washu foram bem feitos. Há ainda algumas animações que são bem legais e
 bem desenhadas. Não há nada a reclamar dos gráficos na minha humilde
 opinião.
 
-![Gráficos Tenchi](images/tenchi-muyo-game-hen/gifdotenchi2.gif)
+![Gráficos Tenchi #idalguma](images/tenchi-muyo-game-hen/gifdotenchi2.gif)
 
 SONS:
 
