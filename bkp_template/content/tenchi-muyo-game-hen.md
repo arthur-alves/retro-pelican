@@ -32,9 +32,9 @@ Pra quem conhece a história do anime, o jogo se passa no mesmo período, onde j
 aquelas conversas giram em torno de garoto. Porém alguns alienígenas
 invadem a casa, e seqüestram Sasami. Ela quer testar a força do grupo, e com o sangue de barata que essas meninas tem não deu outra, unidos do jeito que são e pela vontade de salvar Sasami, eles mais que aceitam o desafio, e começa a batalha no game. Porém isso é só a ponta do “garfo”.
 
-![Tenchi Muyo game](images/tenchi-muyo-game-hen/gif2dotenchi.gif)
+![Tenchi Muyo game]([file=gif2dotenchi.gif])
 
-O JOGO:
+O JOGO: [file="testes"]
 
 O jogo lembra um RPG, mas está mais para estratégia/RPG, sendo que
 estratégia é seu foco principal. O jogo lembra um pouco de **Final Fantasy

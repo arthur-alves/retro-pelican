@@ -1,1 +1,1 @@
-from .test import *
+from .plugin_test import *
