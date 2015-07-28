@@ -13,21 +13,21 @@ mais bem trabalhado para o sistema, e agora o encontramos.
 <!-- PELICAN_END_SUMMARY -->
 [![](http://img340.imageshack.us/img340/3831/ninjagaidenmastersystem.jpg)](http://img340.imageshack.us/img340/3831/ninjagaidenmastersystem.jpg)
 
-<span style="font-weight:bold;">HISTÓRIA:
+HISTÓRIA:
 
-</span>A vila do nosso Ninja Ryu Hayabusa, foi totalmente tomada e
-destruída por vilões capangas do Shogun das trevas. Eles massacram e
-matam todos os habitantes da vila, além disso, roubam um pergaminho
+A vila do nosso Ninja Ryu Hayabusa, foi totalmente tomada e
+destruída por vilões capangas do Shogun das trevas. Eles massacraram e
+mataram todos os habitantes da vila, além disso, roubam um pergaminho
 ninja como o nome de "Bushido"(Caminho do Gerreiro). O pergaminho contém
-valiosas informações sobre as técnicas ninjas e segredos do clã que é
+valiosas informações sobre as técnicas ninjas e segredos do clã Hayabusa que é
 passada de geração em geração através da familia de Ryu. Ryu encontra um
-habitante da vila praticamente morto, mas esse consegue lhe deixar uma
-mensagem sobre os que destruiram sua vila e o roubo do pergaminho. Logo
-após Ryu encontra o um lutador de Sumô juntos de seus capangas que o
+habitante remanescente da vila, praticamente morto, mas este consegue lhe deixar uma
+mensagem sobre as pessoas que destruiram sua vila e roubaram o pergaminho. Logo
+após a cena, Ryu encontra um lutador de Sumô juntos de seus capangas que o
 desafia, dando início ao jogo. A partir daí, Ryu com sua espada parte em
 busca da recuperação do pergaminho.
 
-<span style="font-weight:bold;">O JOGO:</span>
+O JOGO:
 
 Ninja Gaiden segue o mesmo esquema das versões do NES, mas com uma
 enorme diferença, o gráfico está muito melhor do que a versão do NES. O

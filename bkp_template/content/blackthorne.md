@@ -7,9 +7,6 @@ Status: published
 Image: images/blackthorne/box.jpg
 
 
-[![](http://a.imageshack.us/img405/5033/capax.jpg)](http://a.imageshack.us/img405/5033/capax.jpg)
-
-
 <!-- PELICAN_BEGIN_SUMMARY -->
 Quanto tempo não pessoal?! Pois ém, tive um problemão com a operadora da
 minha NET, mas decidi postar mais um detonado meu, o BLACKTHORNE, um
