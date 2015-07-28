@@ -89,7 +89,12 @@ body {
   padding: 10px;
   color: #fff;
 }
-
+.info-label{
+  width: 100px;
+}
+.info-ul-list > span{
+  text-align: center;
+}
 /* Improve post read */
 .bg_body_lecture{
   background-color: rgba(0,0,0,0.2);

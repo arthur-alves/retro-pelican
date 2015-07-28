@@ -19,7 +19,7 @@ Castlevania, Metroid e Contra. E eu como curioso fui conferir e por
 sinal acabei zerando o jogo, e mais, finalizei com todos os personagens
 do jogo, e vou fazer uma análise desta incrível criação.
 
-<span style="font-weight:bold;">HISTÓRIA:</span>
+HISTÓRIA:
 
 Bem a história permanece a mesma do jogo Super Mario Bros. para Nes.
 Bowser sequestra a princesa e você na pele de Mario, Link, Bill Rizer,
@@ -28,7 +28,7 @@ Agora você já era!!!)
 
 [![](http://img80.imageshack.us/img80/4756/mariocross.gif)](http://www.explodingrabbit.com/)
 
-<span style="font-weight:bold;">O JOGO:</span>
+O JOGO:
 
 Bem, acreditem ou não, eu fiquei muito entusiasmado com este jogo, para
 mim foi como um tremendo lançamento da época de ouro 8bits. Escolhado

@@ -6,19 +6,12 @@ Slug: valis-the-fantasm-soldier-mega-drive
 Status: published
 
 
-* **Sistema**: Mega Drive / Genesis
-* **Categoria**: Ação
-* **Jogadores**: 1
-* **Produtora**: Telenet Wolf Team
-* **Lançamento**: 1991
-
 <!-- PELICAN_BEGIN_SUMMARY -->
 Depois de terminar o **Monster World 4,**decidi partir para uma nova
 jornada. E por recomendações de alguns colegas, decidi então jogar o
 primeiro jogo da série VALIS. O jogo foi originalmente desenvolvido para
 MSX em 1986, pela TELENET / Japan.
 <!-- PELICAN_END_SUMMARY -->
-
 
 
 **HISTÓRIA:**
