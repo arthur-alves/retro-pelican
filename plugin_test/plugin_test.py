@@ -40,7 +40,6 @@ class OrganizeFile(object):
         shutil.copy2(original_file, to_create)
 
 
-
     def run_change(self, generator):
         for gen in generator:
             if isinstance(gen, ArticlesGenerator):

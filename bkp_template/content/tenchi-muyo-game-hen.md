@@ -48,12 +48,6 @@ GRÁFICOS:
 
 ![Tenchi Muyo game]([file=gif2dotenchi.gif])
 
-
-![Tenchi Muyo game]([file=gif2dotenchi.gif])
-
-
-![Tenchi Muyo game]([file=gif2dotenchi.gif])
-
 Os gráficos do jogo seguem fielmente o estilo do anime, tanto o cenário, como os personagens são bem construídos. O que achei estranho um pouco, é as
 animações de alguns personagens em movimento, como o Tenchi e Aeka que
 parecem bonecas da barbie caminhando, mas as demais como a Ryoko e
@@ -87,4 +81,3 @@ aspectos não pode ser considerado um clássico na lista do SNES, mas é um
 jogo muito cativante. Para mim que sou fã da série, mais que aprovado.
 
 ![Tenchi](http://a.imageshack.us/img829/3644/tenchiv.jpg)
-
