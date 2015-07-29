@@ -4,7 +4,7 @@ Author: junkatana
 Category: Snes
 Slug: tenchi-muyo-game-hen
 Status: published
-image: images/tenchi-muyo-game-hen/tenchiv.jpg
+image: [file=tenchiv.jpg]
 
 
 * **Sistema**: Super Nintendo
@@ -34,7 +34,7 @@ invadem a casa, e seqüestram Sasami. Ela quer testar a força do grupo, e com o
 
 ![Tenchi Muyo game]([file=gif2dotenchi.gif])
 
-O JOGO: [file="testes"]
+O JOGO:
 
 O jogo lembra um RPG, mas está mais para estratégia/RPG, sendo que
 estratégia é seu foco principal. O jogo lembra um pouco de **Final Fantasy
@@ -46,6 +46,14 @@ veste um roupa de enfermeira, e por ai vai. O jogo tem muitos personagens e isso
 
 GRÁFICOS:
 
+![Tenchi Muyo game]([file=gif2dotenchi.gif])
+
+
+![Tenchi Muyo game]([file=gif2dotenchi.gif])
+
+
+![Tenchi Muyo game]([file=gif2dotenchi.gif])
+
 Os gráficos do jogo seguem fielmente o estilo do anime, tanto o cenário, como os personagens são bem construídos. O que achei estranho um pouco, é as
 animações de alguns personagens em movimento, como o Tenchi e Aeka que
 parecem bonecas da barbie caminhando, mas as demais como a Ryoko e
@@ -53,7 +61,7 @@ Washu foram bem feitos. Há ainda algumas animações que são bem legais e
 bem desenhadas. Não há nada a reclamar dos gráficos na minha humilde
 opinião.
 
-![Gráficos Tenchi #idalguma](images/tenchi-muyo-game-hen/gifdotenchi2.gif)
+![Gráficos Tenchi #idalguma]([file=gifdotenchi2.gif])
 
 SONS:
 
