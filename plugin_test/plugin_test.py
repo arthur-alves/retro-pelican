@@ -3,8 +3,8 @@ import re
 import shutil
 from os import path, makedirs
 from pelican import signals
-from pelican.generators import ArticlesGenerator, StaticGenerator,\
-    PagesGenerator
+from pelican.generators import ArticlesGenerator
+
 
 class OrganizeFile(object):
 
@@ -39,7 +39,6 @@ class OrganizeFile(object):
         import ipdb; ipdb.set_trace()
         shutil.copy2(original_file, to_create)
 
-
     def run_change(self, generator):
         for gen in generator:
             if isinstance(gen, ArticlesGenerator):
@@ -50,6 +49,7 @@ class OrganizeFile(object):
 def start(generator):
     organize = OrganizeFile()
     organize.run_change(generator)
+
 
 def register():
     signals.all_generators_finalized.connect(start)
