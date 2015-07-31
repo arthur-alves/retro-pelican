@@ -4,24 +4,24 @@ import shutil
 from os import path, makedirs
 from pelican import signals
 from pelican.generators import ArticlesGenerator
+from pelican.settings import DEFAULT_CONFIG
 
 
 class OrganizeFile(object):
 
+    __org_assets_path = ""
+
     def initialize(self, pelican):
-        from pelican.settings import DEFAULT_CONFIG
-        DEFAULT_CONFIG.setdefault('IMAGES_PATH',
-                                  'images')
+        default_path = path.join(pelican.path, "images")
+        DEFAULT_CONFIG.setdefault('ORG_ASSETS_PATH',
+                                  default_path)
+        if pelican.settings.get("ORG_ASSETS_PATH"):
+            self.__org_assets_path = pelican.settings.get("ORG_ASSETS_PATH")
 
     def replace_tag(self, article, generator):
-        from pelican.settings import DEFAULT_CONFIG
-        import ipdb; ipdb.set_trace()
-        path_config = DEFAULT_CONFIG.get("IMAGES_PATH")
-        if article.settings.get("IMAGES_PATH"):
-            path_config = article.settings.get("IMAGES_PATH")
         tag_re = r"\[file=(.*?)\]"
         tag_content = "[file={}]"
-        mount_path = path.join( path_config, "{}/{}")
+        mount_path = "{}/{}"
         for tag in re.findall(tag_re, article._content):
             joined_path = mount_path.format(article.slug, tag)
             place_it = [tag_content.format(tag), joined_path]
@@ -38,14 +38,13 @@ class OrganizeFile(object):
 
     def organize_files(self, mount_path, generator):
         output_path = generator.output_path
-        content_path = generator.path
+        content_path = self.__org_assets_path
         slug_path = path.dirname(mount_path)
-        file_path = slug_path.split("/")[0]
         filename = mount_path.split("/")[-1]
         to_create = path.join(output_path, slug_path)
         if not path.exists(to_create):
             makedirs(to_create)
-        original_file = path.join(content_path, file_path, filename)
+        original_file = path.join(content_path, filename)
         shutil.copy2(original_file, to_create)
 
     def run_change(self, generator):
@@ -55,13 +54,14 @@ class OrganizeFile(object):
                     self.replace_tag(article, gen)
 
 
+organize = OrganizeFile()
+
+
 def start(generator):
-    organize = OrganizeFile()
     organize.run_change(generator)
 
 
 def initialize(pelican):
-    organize = OrganizeFile()
     organize.initialize(pelican)
 
 
