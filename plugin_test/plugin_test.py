@@ -21,18 +21,18 @@ class OrganizeFile(object):
             path_config = article.settings.get("IMAGES_PATH")
         tag_re = r"\[file=(.*?)\]"
         tag_content = "[file={}]"
-        mount_path = "{}/{}/{}".format(path_config, "{}", "{}")
+        mount_path = path.join( path_config, "{}/{}")
         for tag in re.findall(tag_re, article._content):
-            path = mount_path.format(article.slug, tag)
-            place_it = [tag_content.format(tag), path]
+            joined_path = mount_path.format(article.slug, tag)
+            place_it = [tag_content.format(tag), joined_path]
             article._content = article._content.replace(*place_it)
-            self.organize_files(path, generator)
+            self.organize_files(joined_path, generator)
         if hasattr(article, "image"):
             for img in re.findall(tag_re, article.image):
-                path = mount_path.format(article.slug, img)
-                image_replace = [tag_content.format(img), path]
+                joined_path = mount_path.format(article.slug, img)
+                image_replace = [tag_content.format(img), joined_path]
                 article.image = article.image.replace(*image_replace)
-                self.organize_files(path, generator)
+                self.organize_files(joined_path, generator)
 
         print "%s initialized !!" % article
 
