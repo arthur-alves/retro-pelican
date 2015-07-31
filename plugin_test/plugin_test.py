@@ -8,10 +8,20 @@ from pelican.generators import ArticlesGenerator
 
 class OrganizeFile(object):
 
+    def initialize(self, pelican):
+        from pelican.settings import DEFAULT_CONFIG
+        DEFAULT_CONFIG.setdefault('IMAGES_PATH',
+                                  'images')
+
     def replace_tag(self, article, generator):
+        from pelican.settings import DEFAULT_CONFIG
+        import ipdb; ipdb.set_trace()
+        path_config = DEFAULT_CONFIG.get("IMAGES_PATH")
+        if article.settings.get("IMAGES_PATH"):
+            path_config = article.settings.get("IMAGES_PATH")
         tag_re = r"\[file=(.*?)\]"
         tag_content = "[file={}]"
-        mount_path = "images/{}/{}"
+        mount_path = "{}/{}/{}".format(path_config, "{}", "{}")
         for tag in re.findall(tag_re, article._content):
             path = mount_path.format(article.slug, tag)
             place_it = [tag_content.format(tag), path]
@@ -36,7 +46,6 @@ class OrganizeFile(object):
         if not path.exists(to_create):
             makedirs(to_create)
         original_file = path.join(content_path, file_path, filename)
-        import ipdb; ipdb.set_trace()
         shutil.copy2(original_file, to_create)
 
     def run_change(self, generator):
@@ -51,5 +60,11 @@ def start(generator):
     organize.run_change(generator)
 
 
+def initialize(pelican):
+    organize = OrganizeFile()
+    organize.initialize(pelican)
+
+
 def register():
+    signals.initialized.connect(initialize)
     signals.all_generators_finalized.connect(start)

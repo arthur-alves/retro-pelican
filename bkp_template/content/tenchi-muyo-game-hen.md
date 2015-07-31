@@ -34,6 +34,8 @@ invadem a casa, e seqüestram Sasami. Ela quer testar a força do grupo, e com o
 
 ![Tenchi Muyo game]([file=gif2dotenchi.gif])
 
+![Tenchi Muyo game]([file=gif2dotenchi.gif])
+
 O JOGO:
 
 O jogo lembra um RPG, mas está mais para estratégia/RPG, sendo que

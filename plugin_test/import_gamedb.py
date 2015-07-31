@@ -8,6 +8,7 @@ URL = "http://thegamesdb.net/api/GetGame.php?id={}"
 # Alias function to xmltodict
 xml_to_dict = lambda elem: xmltodict.parse(elem, process_namespaces=True)
 
+
 class GameDb(object):
 
     def __init__(self, *args, **kwargs):
