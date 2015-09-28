@@ -95,6 +95,10 @@ body {
 .info-ul-list > span{
   text-align: center;
 }
+.warning  h3 {
+  text-transform: uppercase;
+}
+
 /* Improve post read */
 .bg_body_lecture{
   background-color: rgba(0,0,0,0.2);
@@ -103,6 +107,13 @@ body {
   padding: 10px;
   color: #fff;
 }
+
+.bg_body_lecture > h3 {
+  text-transform: uppercase;
+  border-bottom: 1px groove #fff;
+  margin: 30px 0 15px 0;
+}
+
 
 .post_box{
   float: left;

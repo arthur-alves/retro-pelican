@@ -8,8 +8,8 @@
 		<table class="table">
 		 	<thead>
 		 		<tr class="warning">
-		 			<th>Capa:</th>
-		 			<th>Informações</th>
+		 			<th><h3>Capa:</h3></th>
+		 			<th><h3>Informações:</h3></th>
 		 		</tr>
 
 		 	</thead>
@@ -20,12 +20,11 @@
 					</td>
 					<td>
             <ul class="info-ul-list">
-              <li><p><span class="label label-info info-label">Jogo</span>: Testes</p></li>
-              <li><p><span class="label label-info info-label">Sistema</span>: Testes</p></li>
-              <li><p><span class="label label-info info-label">Categoria</span>: Testes</p></li>
-              <li><p><span class="label label-info info-label">Jogadores</span>: Testes</p></li>
-              <li><p><span class="label label-info info-label">Produtora</span>: Testes</p></li>
-              <li><p><span class="label label-info info-label">Lançamento</span>: Testes</p></li>
+              <li><p><span class="label label-info info-label">Jogo</span>: {{ article.title }}</p></li>
+              <li><p><span class="label label-info info-label">Sistema</span>: {{ article.system }}</p></li>
+              <li><p><span class="label label-info info-label">Jogadores</span>: {{ article.players }}</p></li>
+              <li><p><span class="label label-info info-label">Produtora</span>: {{ article.developers }}</p></li>
+              <li><p><span class="label label-info info-label">Lançamento</span>: {{ article.launch }}</p></li>
             </ul>
 					</td>
 				</tr>
