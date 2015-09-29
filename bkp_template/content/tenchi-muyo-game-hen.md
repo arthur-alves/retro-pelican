@@ -1,5 +1,9 @@
 Title: TENCHI MUYO – GAME HEN
 Date: 2010-08-23 18:45
+System: Snes
+Players: 1
+Developers: Banpresto
+Launch: 27/10/1985
 Author: junkatana
 Category: Snes
 Slug: tenchi-muyo-game-hen
@@ -7,12 +11,7 @@ Status: published
 image: [file=tenchiv.jpg]
 
 
-* **Sistema**: Super Nintendo
-* **Categoria**: Estratégia / RPG
-* **Jogadores**: 1
-* **Produtora**: Banpresto
-* **Lançamento**: 27/10/1995
-
+###Introdução:
 
 <!-- PELICAN_BEGIN_SUMMARY -->
 Mais uma análise de SNES, e agora um jogo que nem sequer chegou deste
@@ -20,13 +19,15 @@ lado do ocidente. Trata-se de Tenchi Muyo, um jogo lançado somente no
 Japão. Agora uma pausa aqui para darmos crédito ao primoroso trabalho
 dos romhackers mundial, e isso inclui nós brasileiros. O game foi
 traduzido para Inglês e logo depois para o português, e mais,
-<!-- PELICAN_END_SUMMARY -->com direito a uma ótima adaptação fiel ao anime, nota-se
+<!-- PELICAN_END_SUMMARY --> com direito a uma ótima adaptação fiel ao anime, nota-se
 isso pelas falas do personagem que segue bem fiel ao anime. Uma salva de
 palmas aos romhackers!!!
+
+
 <span style="font-size:85%;">Obs: Essa versão traduzida é a do grupo
 PO.B.R.E. que é a que eu cito abaixo.</span>
 
-HISTÓRIA:
+###HISTÓRIA:
 
 Pra quem conhece a história do anime, o jogo se passa no mesmo período, onde já se podem notar, todas as personagens "amigas" que rodeiam Tenchi estão presentes. A história começa em um dia que Tenchi e companhia, estão reunidos na sala de sua casa, no mesmo clima do anime, onde
 aquelas conversas giram em torno de garoto. Porém alguns alienígenas
@@ -34,9 +35,7 @@ invadem a casa, e seqüestram Sasami. Ela quer testar a força do grupo, e com o
 
 ![Tenchi Muyo game]([file=gif2dotenchi.gif])
 
-![Tenchi Muyo game]([file=gif2dotenchi.gif])
-
-O JOGO:
+###O JOGO:
 
 O jogo lembra um RPG, mas está mais para estratégia/RPG, sendo que
 estratégia é seu foco principal. O jogo lembra um pouco de **Final Fantasy
@@ -46,7 +45,7 @@ os mais fortes, daí vem o jogo e te coloca em mais uma batalha paralela, e remo
 fora das batalhas, somente seleciona o local aonde quer ir, ou seja, nada de ficar perambulando por ai. Os personagens possuem uma forma evoluída no qual podem se transformar, como exemplo a o avô do Tenchi que muda a cor de sua roupa, a Washu que
 veste um roupa de enfermeira, e por ai vai. O jogo tem muitos personagens e isso é um ponto para ele. Ficaram faltando itens, equipamentos entre outros, pois até onde joguei(quase 15 horas), não apareceu, mas por ser focado mais em estratégia é um pouco perdoável.
 
-GRÁFICOS:
+###GRÁFICOS:
 
 ![Tenchi Muyo game]([file=gif2dotenchi.gif])
 
@@ -59,7 +58,7 @@ opinião.
 
 ![Gráficos Tenchi #idalguma]([file=gifdotenchi2.gif])
 
-SONS:
+###SONS:
 
 Nisso podemos dar nota 10 ao game, suas músicas seguem os estilo das
 mesmas do anime, é realmente incríveis a qualidade e clima que elas
@@ -72,7 +71,7 @@ jogo em português e ouvir as vozes em japonês, é como assistir animes.
 Para mim esse foi um dos fatos mais inovadores no game, porque em
 batalha seu personagem abusa das vozes, quando ataca e quando leva dano.
 
-CONCLUSÃO:
+###CONCLUSÃO:
 
 Um bom jogo, porém é mais recomendado para fãs do anime, que podem
 considerá-lo melhor que bom. O jogo possui vários aspectos

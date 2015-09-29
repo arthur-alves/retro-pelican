@@ -3,7 +3,7 @@ Date: 2010-06-05 18:05
 Author: junkatana
 Category: Mega Drive
 Slug: valis-the-fantasm-soldier-mega-drive
-Status: published
+Status: draft
 
 
 <!-- PELICAN_BEGIN_SUMMARY -->

@@ -3,7 +3,7 @@ Date: 2010-06-06 02:01
 Author: junkatana
 Category: Retro Music
 Slug: retro-music-ataque
-Status: published
+Status: draft
 
 Ahhh!! A nostalgia... como é nostálgica.
 <!-- PELICAN_BEGIN_SUMMARY -->
@@ -52,11 +52,11 @@ Integrantes da 8bit Instrumental:
 <div style="text-align:center;">
 
 Moisés de Oliveira Marques Filho (**<span
-class="style8">Bateria)</span>**  
+class="style8">Bateria)</span>**
 **<span class="style8"></span>**Rodrigo “Cheba” Nepomuceno (**<span
-class="style8">Guitarra)</span>**  
+class="style8">Guitarra)</span>**
 **<span class="style8"></span>**Luciano de Oliveira Marques (**<span
-class="style8">Baixo</span>**)  
+class="style8">Baixo</span>**)
 André Luiz Oliveira (**<span class="style8">Guitarra e Teclado</span>**)
 
 </div>

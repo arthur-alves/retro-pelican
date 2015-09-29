@@ -1,10 +1,16 @@
-Title: Alex Kidd in Shinobi World - SMS
+Title: Alex Kidd in Shinobi World
+System: Master System
+Players: 1
+Developers: Sega
+Launch: 01/08/1990
 Date: 2010-06-07 23:39
 Author: junkatana
 Category: Master System
 Slug: alex-kidd-in-shinobi-world-master
 Status: published
-Image: http://img7.imageshack.us/img7/2275/capaab.jpg
+Image: [file=capa.jpg]
+
+###Introdução:
 
 <!-- PELICAN_BEGIN_SUMMARY -->
 Correria do trabalho, pagando contas e tudo mais decidi então jogar algo
@@ -13,7 +19,7 @@ sabia que era tão leve, em menos de 30 minutos (Oo??) o jogo se foi. Mas
 tudo bem, segue aqui um post com mais detalhes.
 <!-- PELICAN_END_SUMMARY -->
 
-História:
+###História:
 
 Estava lá, nosso amigo Alex, cortejando sua namorada quando do nada aparece um cara
 vestido de vampiro (mas não é jogo de Ninja?) e leva sua menina. Então
@@ -26,7 +32,7 @@ garota. Ai como boa alma penada, ele incorpora em Alex (oO? Encarnação?)
 e o ajuda no decorrer da missão.
 
 
-O JOGO:
+###O JOGO:
 
 Brincadeiras a parte sobre a história, o jogo em si até que é legal, por
 se tratar de um lançamento antigo (1990), jogabilidade média, movimentos
@@ -46,7 +52,7 @@ achei fraco mesmo para a época, mas fará parte do Retro Ataque hoje.
 Segue algumas imagens do jogo, que foi baseada na tradução do "Urbano",
 por sinal excelente tradução:
 
-[![](http://img97.imageshack.us/img97/3425/alexkiddshinobi.gif)](http://img97.imageshack.us/img97/3425/alexkiddshinobi.gif)
+![Alex Kidd Shinobi World]([file=alexkiddshinobi.gif])
 
 [Site sobre a tradução
 aqui](http://www.romhackers.org/modules/PDdownloads/singlefile.php?cid=20&lid=110http://www.romhackers.org/modules/PDdownloads/singlefile.php?cid=20&lid=110).

@@ -1,9 +1,14 @@
 Title: NINJA GAIDEN - SMS
+System: Master System
+Players: 1
+Developers: Sega
+Launch: 01/01/1992
 Date: 2010-06-09 21:17
 Author: junkatana
 Category: Master System
 Slug: ninja-gaiden-master-system
 Status: published
+Image: [file=ninja_gaiden_capa.jpg]
 
 
 <!-- PELICAN_BEGIN_SUMMARY -->
@@ -11,9 +16,8 @@ E lá vamos nós outra vez no Master System. Agora com Ninja Gaiden, um
 excelente jogo para Master System. Já estava na hora de jogar um jogo
 mais bem trabalhado para o sistema, e agora o encontramos.
 <!-- PELICAN_END_SUMMARY -->
-[![](http://img340.imageshack.us/img340/3831/ninjagaidenmastersystem.jpg)](http://img340.imageshack.us/img340/3831/ninjagaidenmastersystem.jpg)
 
-HISTÓRIA:
+###HISTÓRIA:
 
 A vila do nosso Ninja Ryu Hayabusa, foi totalmente tomada e
 destruída por vilões capangas do Shogun das trevas. Eles massacraram e
@@ -27,7 +31,9 @@ após a cena, Ryu encontra um lutador de Sumô juntos de seus capangas que o
 desafia, dando início ao jogo. A partir daí, Ryu com sua espada parte em
 busca da recuperação do pergaminho.
 
-O JOGO:
+###O JOGO:
+
+![Tenchi Muyo game]([file=ninjagif.gif])
 
 Ninja Gaiden segue o mesmo esquema das versões do NES, mas com uma
 enorme diferença, o gráfico está muito melhor do que a versão do NES. O

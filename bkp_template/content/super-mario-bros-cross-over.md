@@ -1,34 +1,35 @@
 Title: Super Mario B. Cross Over
 Date: 2010-06-11 01:29
+System: Browser / WEB
+Players: 1
+Developers: Jay Pavlina
+Launch: 27/04/2010
+image: [file=selecao.jpg]
 Author: junkatana
 Category: Curiosidades
 Slug: super-mario-bros-cross-over
 Status: published
-Summary: Estava eu, lendo um blog que acompanho, o blog do amigo
-[Alexmag](http://blog.alexmag.net/) , e vi um vídeo muito interessante.
-Um cara chamado Jay Pavlina criou uma versão de Super Mario Bros. com
-personangens de outros games conhecidos como, megaman, Zelda,
-Castlevania, Metroid e Contra...
 
-[![](http://img267.imageshack.us/img267/2664/capao.png)](http://www.explodingrabbit.com/)
-Estava eu, lendo um blog que acompanho, o blog do amigo
-[Alexmag](http://blog.alexmag.net/) , e vi um vídeo muito interessante.
-Um cara chamado Jay Pavlina criou uma versão de Super Mario Bros. com
+
+<!-- PELICAN_BEGIN_SUMMARY -->
+Estava eu, lendo um blog que acompanho, o blog de um amigo
+e vi um vídeo muito interessante. Um cara chamado Jay Pavlina
+criou uma versão de Super Mario Bros. <!-- PELICAN_END_SUMMARY --> com
 personangens de outros games conhecidos como, megaman, Zelda,
 Castlevania, Metroid e Contra. E eu como curioso fui conferir e por
 sinal acabei zerando o jogo, e mais, finalizei com todos os personagens
 do jogo, e vou fazer uma análise desta incrível criação.
 
-HISTÓRIA:
+###HISTÓRIA:
 
 Bem a história permanece a mesma do jogo Super Mario Bros. para Nes.
 Bowser sequestra a princesa e você na pele de Mario, Link, Bill Rizer,
 Simon Belmont, Megaman ou a beldade Samus, deve resgatá-la (Bowser...
 Agora você já era!!!)
 
-[![](http://img80.imageshack.us/img80/4756/mariocross.gif)](http://www.explodingrabbit.com/)
+![Mario cross]([file=selecao.jpg])
 
-O JOGO:
+###O JOGO:
 
 Bem, acreditem ou não, eu fiquei muito entusiasmado com este jogo, para
 mim foi como um tremendo lançamento da época de ouro 8bits. Escolhado
@@ -44,6 +45,9 @@ detalhe é que quando acaba o tempo está quase terminando, as músicas
 também se alteram, como por exemplo a de Samus que é mesma quando está
 com o HP baixo. Vou citar as características de cada personagem para que
 você possa ter a idéia de como é:
+
+![simon]([file=simon.jpg])
+
 **
 Mario** possui os mesmos movimentos do jogo original: Pular, correr e a
 velha Bola de Fogo (Uhuu).
@@ -67,6 +71,9 @@ também pode ser carregado.
 de início, assim como na série, tem pouco alcance, mas melhora para um
 tiro mais longo com o cogumelo, e o melhor, ela retira a armadura ao
 pegar a flor, e com a arma "Wave beam".
+
+![samus]([file=samus.jpg]) ![samus]([file=megaman.jpg])
+
 
 O jogo é muito divertido, cheguei a ficar bem empolgado quando joguei
 com Samus, que pra mim é a melhor. Parabéns a Jay Pavlina, o cara criou

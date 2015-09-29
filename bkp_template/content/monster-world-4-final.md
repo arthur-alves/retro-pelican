@@ -1,9 +1,16 @@
-Title: Monster World 4 - Final
+Title: Monster World 4
 Date: 2010-06-04 02:21
+System: Genesis / MegaDrive
+Players: 1
+Developers: West One / Sega
+Launch: 01/04/1994
 Author: junkatana
 Category: Mega Drive, monster world
 Slug: monster-world-4-final
-Status: published
+Status: Published
+Image: [file=mw4_cover.jpg]
+
+###Introdução:
 
 <!-- PELICAN_BEGIN_SUMMARY -->
 Lembra daquele jogo **Wonderboy**(ou
@@ -14,9 +21,9 @@ um "ar" de RPG/plataforma, bem estilo castlevânia, porém com um visual
 mais fofo, fácil de jogar até então.
 <!-- PELICAN_END_SUMMARY -->
 
+![gameplay]([file=gameplay.gif])
 
-
-A HISTÓRIA:
+###A HISTÓRIA:
 
 O jogo conta a história de um planeta chamado Monster World. As pessoas
 viviam em harmonia com as criaturas do planeta. Porém uma outra criatura
@@ -28,7 +35,7 @@ nos corações das pessoas, fazendo assim elas retornarem ao estado normal
 em seus corações. Mas ninguém contava que esse herói seria na verdade
 uma heroína. Seu nome é Asha.
 
-O INÍCIO:
+###O INÍCIO:
 
 Em um pequeno vilarejo afastado do centro de Rapadagna, Asha vivia com seus pais, mas tudo isso
 muda, quando Asha, escuta um chamado, um pedido de ajuda. Ela então
@@ -39,7 +46,9 @@ fora aprisionado por um plano malévolo da criatura das trevas. A partir
 daí começa a verdadeira batalha de Asha contra o mal que a criatura causava nos corações das
 pessoas.
 
-O JOGO:
+![pet]([file=wb4.gif])
+
+###O JOGO:
 
 O jogo possui vários detalhes que o tornam, na minha humilde opinião, um
 excelente jogo. Realmente se nota o esforço da equipe da SEGA no game.
@@ -74,10 +83,11 @@ mas depois aumenta bastante o desafio, que gosta de exploração a - lá
 Metroid ou Castlevania vai gostar.
 Ponto para a WestOne / SEGA.
 
-Imagens:
+###Imagens:
 
+![pet_pesado]([file=pesado.gif])
 
-CURIOSIDADES:
+###CURIOSIDADES:
 
 Pepelogos
 
@@ -92,3 +102,5 @@ cresce no decorrer da jornada, quando se alimenta de uma fruta do jardim
 secreto, e só de vez em quando você faz isso, ou seja, ele não fica como
 um tamagoshi pedindo comida, mas em compensação ele fica mais pesado
 também, como vocês podem conferir abaixo nas fotos.
+
+![pet]([file=pet.gif])

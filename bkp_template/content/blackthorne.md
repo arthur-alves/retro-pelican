@@ -1,4 +1,8 @@
 Title: BLACKTHORNE
+System: Snes
+Players: 1
+Developers: Blizzard Entertainment
+Launch: 01/01/1994
 Date: 2010-08-18 21:28
 Author: junkatana
 Category: Snes
@@ -7,13 +11,15 @@ Status: published
 Image: images/blackthorne/box.jpg
 
 
+###Introdução:
+
 <!-- PELICAN_BEGIN_SUMMARY -->
 Quanto tempo não pessoal?! Pois ém, tive um problemão com a operadora da
 minha NET, mas decidi postar mais um detonado meu, o BLACKTHORNE, um
 jogaço do Super Nintendo. Quem não se lembra desse maguinífico jogo?
 <!-- PELICAN_END_SUMMARY -->
 
-HISTÓRIA:
+###HISTÓRIA:
 
 
 Blackthorne se passa no planeta Tuul. Thoros, o último governante,
@@ -42,7 +48,7 @@ mas mostra o decorrer a partir daí.
 
 ![blackthorne](images/blackthorne/balckgifs.gif)
 
-JOGABILIDADE:
+###JOGABILIDADE:
 
 Agora minha parte: Como pode ser visto acima, você começa no meio da
 bagunça dessa guerra. Na verdade parece mais uma luta entre Orc's e
@@ -65,7 +71,7 @@ para alcançar os objetivos do jogo. Não há nada contra a jogabilidade,
 algumas pessoas reclamaram dessa jogabilidade, mas ela segue o estilo do
 game, que na minha opinião é muito boa.
 
-GRÁFICOS:
+###GRÁFICOS:
 
 Os gráficos do game são muito, mas muito bons mesmo para a época, na
 verdade até mesmo hoje, você ainda consegue ver as animações fluindo
@@ -76,7 +82,7 @@ lado nesse quesito. Gráficos que poderiam ou deveriam ser inspirações
 para vários outros jogos, não pela animação mas pelo estilo. Realmente
 incrível.
 
-SONS:
+###SONS:
 
 O game conta com várias trilhas que seguem muito bem o rítmo sombrio e
 com um ar de filmes como Highlander. Podemos contar com efeitos das
@@ -85,7 +91,7 @@ risadas e alguns outros detalhes. Ponto para quando você leva um tiro e
 o inimigo fica rindo da sua cara. Mas basta levantar e acabar com ele,
 claro se você tiver vida para isso.
 
-CONCLUSÃO:
+###CONCLUSÃO:
 
 Na minha opinião é um game grandioso que mesmo depois de tanto tempo
 pude jogá-lo com empolgação, e olha que é difícil dizer isso mesmo
