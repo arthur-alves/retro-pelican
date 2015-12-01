@@ -1,4 +1,4 @@
-Title: BLACKTHORNE
+Title: BLACKTHORNE - SNES
 System: Snes
 Players: 1
 Developers: Blizzard Entertainment

@@ -1,4 +1,4 @@
-Title: TENCHI MUYO – GAME HEN
+Title: TENCHI MUYO – SNES
 Date: 2010-08-23 18:45
 System: Snes
 Players: 1

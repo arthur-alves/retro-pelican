@@ -114,11 +114,15 @@ com certeza valerá a pena.
 Para ajudar vou citar o que cada poção faz no jogo:
 
 -Poção Verde: Revela os blocos escondidos.
+
+
 -Poção Amarela: Essa poção para o tempo, fazendo os inimigos, blocos e
 elevadores ficarem estáticos.
-- Poção Azul: Faz Shadax ficar invencível, podendo subir em cima dos
+
+-Poção Azul: Faz Shadax ficar invencível, podendo subir em cima dos
 inimigos para alcançar as plataformas, não funciona em espinhos.
-- Poção Roxa: Destrói todos os inimigos da sala, mas destrói também os
+
+-Poção Roxa: Destrói todos os inimigos da sala, mas destrói também os
 blocos e itens, cuidado para não perder aquele item que você precisa.
 
 ###Resumo e link’s:

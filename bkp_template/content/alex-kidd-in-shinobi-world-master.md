@@ -1,4 +1,4 @@
-Title: Alex Kidd in Shinobi World
+Title: Alex Kidd in Shinobi World - SMS
 System: Master System
 Players: 1
 Developers: Sega
@@ -13,7 +13,7 @@ Image: [file=capa.jpg]
 ###Introdução:
 
 <!-- PELICAN_BEGIN_SUMMARY -->
-Correria do trabalho, pagando contas e tudo mais decidi então jogar algo
+Na correria do trabalho, pagando contas e tudo mais, decidi então jogar algo
 mais leve como "Alex Kidd in Shinobi World" para Master System. Só não
 sabia que era tão leve, em menos de 30 minutos (Oo??) o jogo se foi. Mas
 tudo bem, segue aqui um post com mais detalhes.
@@ -47,8 +47,9 @@ tempo, e os chefões são muito fáceis, só o último que te atrapalha um
 pouco, mas é o papel dele.. A história também é bem
 fraquinha e nada original, mas serve de motivo para o Alex fazer alguma
 coisa. As músicas desse aqui também não marcam tanto quanto o "Miracle
-World", mas não atrapalham. No mais me enganei jogando esse jogo, pois
-achei fraco mesmo para a época, mas fará parte do Retro Ataque hoje.
+World", mas não atrapalham. Sabemos que a série Alex Kidd conta com altos e baixos e possuem jogos
+realmentes piores do que este. Mas mesmo assim, me enganei jogando esse jogo, pois
+achei fraco, mesmo para a época, porém fará parte do Retro Ataque de hoje e também por possui muitos fãs por ai.
 Segue algumas imagens do jogo, que foi baseada na tradução do "Urbano",
 por sinal excelente tradução:
 
