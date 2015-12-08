@@ -15,11 +15,10 @@ Image: [file=mw4_cover.jpg]
 <!-- PELICAN_BEGIN_SUMMARY -->
 Lembram daquela série **Wonderboy**(ou
 Monster World)? Pois é, aqui estou eu jogando o sexto e último game
-da série. Mas lançado somente no japão. Graças a nossos RomHackers, este
-jogo está em português. O game, parecido com os primeiros para Master System,
-possui um "ar" de RPG/plataforma, bem estilo castlevânia, porém com um visual
-mais cativante e bonitinho.
+da série. Este porém, lançado somente no japão e ficara por lá por um bom tempo, até que,
+ graças aos nossos RomHackers, este jogo está em inglês e também em português. O game, parecido com os primeiros para Master System, possui um "ar" de RPG/plataforma, bem estilo castlevânia, porém com um visual mais cativante e bonitinho, bem mais trabalhado nesta versão do que os demais.
 <!-- PELICAN_END_SUMMARY -->
+Este game faz parte da série Wonderboy, e por motivos óbvios não leva "Wonderboy" no título, afinal aqui temos uma WonderGIRL.
 
 ![gameplay]([file=gameplay.gif])
 
@@ -27,7 +26,7 @@ mais cativante e bonitinho.
 
 O jogo conta a história de um planeta chamado Monster World. As pessoas
 viviam em harmonia com as criaturas do planeta. Porém uma outra criatura
-das trevas não estava feliz com essa atual situação, e investe em
+das trevas não estava feliz com a atual situação, e investe pesado em
 ataques diretamente nos corações das pessoas, lançando sobre elas medo,
 ódio, avareza, e todas outras artimanhas demoníacas. Há tempos, as pessoas
 contavam que em breve surgiria um herói que acabaria com todo o mal
@@ -36,13 +35,11 @@ uma heroína. Seu nome é Asha.
 
 ###O INÍCIO:
 
-Em um pequeno vilarejo afastado do centro de Rapadagna, Asha vivia com seus pais, mas tudo isso
-muda, quando Asha, escuta um chamado do além, um pedido de ajuda. Ela então
-decide ir atrás, e partir em uma jornada, buscando respostas
+Em um pequeno vilarejo chamado Estafan afastado do centro de Rapadagna. Uma garota no topo de uma colina, chamada Asha, vivia com seus pais, mas tudo isso muda, quando Asha, escuta um chamado do além, um pedido de ajuda. Ela então decide ir atrás, e partir em uma jornada, buscando respostas
 sobre esse chamado inesperado. No caminho ela descobre que o planeta se
 encontra em uma terrível decadência, pois os quatro espíritos protetores
 fora aprisionado por um plano malévolo da criatura das trevas. A partir
-daí começa a verdadeira batalha de Asha contra o mal que a criatura causara nos corações das
+daí, começa a verdadeira batalha de Asha contra todo o mal que a criatura causara nos corações das
 pessoas.
 
 ![pet]([file=wb4.gif])
@@ -50,7 +47,8 @@ pessoas.
 ###O JOGO:
 
 O jogo possui vários detalhes que o tornam, na minha humilde opinião, um
-excelente game. Realmente se nota o esforço da equipe da **Westone/SEGA** no game.
+excelente game e em si o melhor da série. Realmente se nota o esforço da equipe da antiga Escape
+ **Westone/SEGA** no game.
 Ao começar pelo pequeno Pepelogo, o pequeno monstrinho ajudante de Asha.
 Como disse antes, ele realmente faz de tudo desde apagar velas, servir
 de escudo contra fogo, planar com você, te salvar do afogamento, ativar
@@ -62,16 +60,14 @@ O jogo também conta com vários detalhes como equipamentos, armas e itens
 que ficam no inventário. O único problema para mim, mas não é realmente
 um grande problema, é que você não pode vender as armas, somente as peças de ouro
 que você encontra no jogo, onde você fica barganhando com uma gorda que
-gosta muito de pepelogos, quanto mais você conversa, elogia e concorda
+gosta muito de pepelogos. Quanto mais você conversa, elogia e concorda
 com ela, mais ela te paga pelas peças de ouro. As fases do jogo são muito bem
-desenhadas, algumas lembram até SONIC. A animação também é impecável,
-agradando muito para um jogo da época. Asha anda com estilo peculiar de uma
-garota indefesa e perdida. Além disso, ela possui vários movimentos,
-como se defender com escudo, sua espada bate em várias direções quando
-você pula, e também vive interagindo com o Pepelogo. Ela o carrega, o joga, e vice-versa, mas ele não bate em monstros, apesar de defender você de alguns. O jogo também conta com uma ótima jogabilidade, não
-deixando você na mão como muitos jogos fazem.
-Outra coisa é a AI dos inimigos, é bem legal, existem alguns inimigos e
-chefes que defendem ataques por todos os lados, e são mais chatos de se
+desenhadas, algumas lembram até SONIC. Por falar nisso, todo o cenário é inspirado
+em um ambiente árabe, deixando o visual muito rico em detalhes. A animação também é impecável,
+agradando muito para um jogo da época. Asha caminha e corre com estilo peculiar de uma
+garota indefesa e perdida, mas não se engane, ela é ágil e guerreira e conta com vários movimentos,
+como se defender com escudo e sua espada que desfere golpes em diversas direções quando
+você pula, e também vive interagindo com seu Pepelogo (Detalhe sobre ele em curioidades logo abaixo). Ela o carrega, o joga, e vice-versa, mas ele não bate em monstros, apesar de defender você de alguns, é realmente incrível este pet. O jogo também conta com uma ótima jogabilidade, não deixando você na mão como muitos jogos fazem. Outra coisa é a AI dos inimigos que é muito bem trabalhada, existem alguns inimigos e chefes que defendem ataques por todos os lados, e são mais chatos de se
 abaterem, isso com certeza torna as coisas mais interessantes e
 desafiadoras.
 
@@ -92,9 +88,8 @@ Pepelogos
 
 Este amiguinho com nome de Pepelogoos
 (Urgh), cara de gato, corpo do Kirby, e funções de bugiganga
-multi-funcional. Realmente ele faz de tudo desde apagar velas, servir de
-escudo contra fogo, planar com você, te salvar do afogamento, ativar
-interruptor e ainda tem uma habilidade parecida com um pulo-duplo, onde
+multi-funcional. Há vários deles no centro de Rapadagna, mas o de Asha realmente faz de tudo
+para ajudá-la desde apagar velas, servir de escudo contra fogo, planar com você, te salvar do afogamento, ativar interruptor e ainda tem uma habilidade parecida com um pulo-duplo, onde
 você faz um combo com ele. Tá ai um mascote que é realmente útil, vai
 com você até a morte (Sem ofensas Yoshi ). Outra coisa legal, é que ele
 cresce no decorrer da jornada, quando se alimenta de uma fruta do jardim

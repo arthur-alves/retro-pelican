@@ -4,6 +4,7 @@ System: NES
 Players: 1
 Developers: CSG Imagesoft, Inc.
 Launch: 1990
+tag: nes
 Author: junkatana
 Category: NES, Traduções
 Slug: solstice-nes
