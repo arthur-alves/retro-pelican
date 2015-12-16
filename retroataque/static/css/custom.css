@@ -173,3 +173,27 @@ body {
   opacity: 0.2;
 
 }
+
+.side_menu_bar{
+  font-size: 25px;
+  width: 200px;
+  float: left;
+  margin-left: 2em !important;
+}
+
+.side_menu_bar li{
+  margin-bottom: 0.5em;
+}
+
+.nav-list{
+  display: block;
+  padding: 10px 15px;
+  margin: 10px 5px;
+  margin-left: -5px;
+  border: 2px solid #fff;
+  box-shadow:none;
+}
+
+.nav{
+  background-color: #6D6D6D;
+}

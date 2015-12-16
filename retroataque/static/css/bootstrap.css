@@ -3832,7 +3832,7 @@ input[type="submit"].btn.btn-mini {
 .nav-list > .active > a:hover,
 .nav-list > .active > a:focus {
   color: #ffffff;
-  background-color: #00aaaa;
+  background-color: #2E2F2F;
 }
 
 .nav-list [class^="icon-"],
