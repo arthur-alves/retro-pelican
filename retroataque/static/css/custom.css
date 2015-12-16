@@ -205,3 +205,8 @@ body {
   }
 
 }
+
+.post_container{
+  width: calc(100% / 4) !important;
+  margin: 0 !important;
+}
