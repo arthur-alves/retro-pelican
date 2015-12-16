@@ -17,7 +17,7 @@ image: [file=tenchiv.jpg]
 Mais uma análise de SNES, e agora um jogo que nem sequer chegou deste
 lado do ocidente. Trata-se de Tenchi Muyo, um jogo lançado somente no
 Japão. Agora uma pausa aqui para darmos crédito ao primoroso trabalho
-dos romhackers mundial, e isso inclui nós brasileiros. O game foi
+dos romhackers, e isso inclui nós brasileiros. O game foi
 traduzido para Inglês e logo depois para o português, e mais,
 <!-- PELICAN_END_SUMMARY --> com direito a uma ótima adaptação fiel ao anime, nota-se
 isso pelas falas do personagem que segue bem fiel ao anime. Uma salva de
@@ -33,7 +33,7 @@ Pra quem conhece a história do anime, o jogo se passa no mesmo período, onde j
 aquelas conversas giram em torno de garoto. Porém alguns alienígenas
 invadem a casa, e seqüestram Sasami. Ela quer testar a força do grupo, e com o sangue de barata que essas meninas tem não deu outra, unidos do jeito que são e pela vontade de salvar Sasami, eles mais que aceitam o desafio, e começa a batalha no game. Porém isso é só a ponta do “garfo”.
 
-![Tenchi Muyo game]([file=gif2dotenchi.gif])
+![Tenchi Muyo game]([file=gif2dotenchi.gif]) ![Tenchi Muyo game]([file=gif2dotenchi.gif]) ![Tenchi Muyo game]([file=gif2dotenchi.gif])
 
 ###O JOGO:
 

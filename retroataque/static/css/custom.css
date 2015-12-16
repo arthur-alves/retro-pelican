@@ -101,7 +101,7 @@ body {
 
 /* Improve post read */
 .bg_body_lecture{
-  background-color: rgba(0,0,0,0.2);
+  background-color: rgba(28, 28, 28, 1);
   text-shadow: 1px 1px 0px #000000;
   font-size: 18px;
   padding: 10px;
@@ -161,4 +161,15 @@ body {
 .footer{
   text-align: center;
   padding: 3em;
+}
+
+.stripes{
+  background-image: url("../img/stripe.png");
+
+}
+
+.stripes_logo{
+  background-image: url("../img/stripe.png");
+  opacity: 0.2;
+
 }
