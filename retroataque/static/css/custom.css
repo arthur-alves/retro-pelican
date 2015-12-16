@@ -206,7 +206,11 @@ body {
 
 }
 
-.post_container{
-  width: calc(100% / 4) !important;
-  margin: 0 !important;
+@media screen and (min-width: 1280px) {
+  .post_container{
+    width: calc(100% / 4) !important;
+    margin: 0 !important;
+  }
+
 }
+
