@@ -197,3 +197,11 @@ body {
 .nav{
   background-color: #6D6D6D;
 }
+
+
+@media screen and (max-width: 1220px) {
+  .side_menu_bar{
+    display: none;
+  }
+
+}
