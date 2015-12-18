@@ -33,7 +33,7 @@ Pra quem conhece a história do anime, o jogo se passa no mesmo período, onde j
 aquelas conversas giram em torno de garoto. Porém alguns alienígenas
 invadem a casa, e seqüestram Sasami. Ela quer testar a força do grupo, e com o sangue de barata que essas meninas tem não deu outra, unidos do jeito que são e pela vontade de salvar Sasami, eles mais que aceitam o desafio, e começa a batalha no game. Porém isso é só a ponta do “garfo”.
 
-![Tenchi Muyo game]([file=gif2dotenchi.gif]) ![Tenchi Muyo game]([file=gif2dotenchi.gif]) ![Tenchi Muyo game]([file=gif2dotenchi.gif])
+![Tenchi Muyo game]([file=tenchi4.png]) ![Tenchi Muyo game]([file=tenchi2.png]) ![Tenchi Muyo game]([file=tenchi3.png])
 
 ###O JOGO:
 
@@ -81,4 +81,4 @@ ter sido até mesmo um excelente jogo para SNES, mas por falta destes
 aspectos não pode ser considerado um clássico na lista do SNES, mas é um
 jogo muito cativante. Para mim que sou fã da série, mais que aprovado.
 
-![Tenchi](http://a.imageshack.us/img829/3644/tenchiv.jpg)
+![Tenchi Muyo game]([file=tenchi5.png])

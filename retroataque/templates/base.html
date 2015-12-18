@@ -51,7 +51,7 @@
             <div class="jumbotron">
               <h1><a href="{{SITEURL}}" style="color:white;">Retro Ataque</a></h1>
               <p class="lead">Retro games 80's, 90's, 00's e toda nostalgia possível...</p>
-              <a class="btn btn-large btn-success" href="#enjoy">Enjoy</a>
+              <a class="btn btn-large btn-success" id="go_enjoy" href="javascript:;">Enjoy</a>
             </div>
           </div>
         </div>
@@ -63,13 +63,14 @@
         <li><a href="#">Sobre</a></li>
         <li><a href="#">Tags</a></li>
         <li class="divider"></li>
-        <li><a href="#">Help</a></li>
+        <li><a href="#">Sobre</a></li>
       </ul>
       {% block content %}
       {% endblock %}
       <div class="container">
         <div class="footer">
           <p>© Retro Ataque</p>
+          <a class="btn btn-large btn-success" id="go_top" href="javascript:;">Topo</a>
         </div>
       </div>
     <!-- Le javascript
