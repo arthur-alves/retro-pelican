@@ -1,6 +1,7 @@
 Title: Super Mario B. Cross Over
 Date: 2010-06-11 01:29
 System: Browser / WEB
+ini: nes
 Players: 1
 Developers: Jay Pavlina
 Launch: 27/04/2010

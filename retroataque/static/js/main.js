@@ -22,10 +22,18 @@ $(function() {
 	$("#go_enjoy").click(function() {
 		animateTo('#enjoy')
 	})
+
+	$(".show_hide_menu").click(function() {
+		show_hide();
+	})
 })
 
 function animateTo(element) {
 	$('html, body').animate({
 		scrollTop: $(element).offset().top
 	}, 300);
+}
+
+function show_hide() {
+	$(".side_menu_bar").toggleClass("show_menu");
 }

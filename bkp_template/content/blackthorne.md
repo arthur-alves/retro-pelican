@@ -1,5 +1,6 @@
-Title: BLACKTHORNE - SNES
+Title: BLACKTHORNE
 System: Snes
+ini: snes
 Players: 1
 Developers: Blizzard Entertainment
 Launch: 01/01/1994

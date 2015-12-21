@@ -1,5 +1,7 @@
-Title: VALIS: THE FANTASM SOLDIER – MEGA DRIVE
+Title: VALIS: THE FANTASM SOLDIER
 Date: 2010-06-05 18:05
+System: Mega Drive
+ini: gen
 Author: junkatana
 Category: Mega Drive
 Slug: valis-the-fantasm-soldier-mega-drive

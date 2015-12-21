@@ -1,6 +1,7 @@
-Title: TENCHI MUYO – SNES
+Title: TENCHI MUYO
 Date: 2010-08-23 18:45
 System: Snes
+ini: super-famicom
 Players: 1
 Developers: Banpresto
 Launch: 27/10/1985

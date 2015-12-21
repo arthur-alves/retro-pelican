@@ -1,7 +1,8 @@
-Title: FATAL LABYRINTH - MD
+Title: FATAL LABYRINTH
 Date: 2010-06-12 15:13
 Author: junkatana
 System: Mega Drive
+ini: gen2
 Developers: Sega
 Launch: 19/11/1990
 Players: 1

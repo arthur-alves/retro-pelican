@@ -1,5 +1,6 @@
-Title: Alex Kidd in Shinobi World - SMS
+Title: Alex Kidd in Shinobi World
 System: Master System
+ini: sms
 Players: 1
 Developers: Sega
 Launch: 01/08/1990

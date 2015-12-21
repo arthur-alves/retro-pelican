@@ -1,6 +1,7 @@
-Title: SOLSTICE - NES
+Title: SOLSTICE
 Date: 2010-06-12 21:11
 System: NES
+ini: nes
 Players: 1
 Developers: CSG Imagesoft, Inc.
 Launch: 1990

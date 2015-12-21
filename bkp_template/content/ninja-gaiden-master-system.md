@@ -1,5 +1,6 @@
-Title: NINJA GAIDEN - SMS
+Title: NINJA GAIDEN
 System: Master System
+ini: sms
 Players: 1
 Developers: Sega
 Launch: 01/01/1992

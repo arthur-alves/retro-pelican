@@ -1,6 +1,7 @@
-Title: Monster World 4 - MD
+Title: Monster World 4
 Date: 2010-06-04 02:21
 System: Genesis / MegaDrive
+ini: gen2
 Players: 1
 Developers: West One / Sega
 Launch: 01/04/1994
