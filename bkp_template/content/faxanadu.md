@@ -10,14 +10,15 @@ Author: junkatana
 Category: NES
 Slug: faxanadu-nes
 Status: published
-Image:
+Image:[file=faxanadu.jpg]
 
 
 <!-- PELICAN_BEGIN_SUMMARY -->
 Existem games que mesmo para a época eram bastante inovadores, e hoje falaremos
 sobre um game considerado por muitos, como apenas um cópia de Zelda II, mas
-na minha opinião, estão redondamente enganados.
+na minha opinião e de muitos outros, estão redondamente enganados.
 <!-- PELICAN_END_SUMMARY -->
+Faxanadu é um obra-prima dos anos 80.
 
 ### Introdução:
 
@@ -28,13 +29,13 @@ típico do NES, mas com requintes de RPG e vista side-scrolling, ou como preferi
 
 ### História:
 
-![faxanadu]([file=faxanadu-2.png]) 
+![faxanadu]([file=faxanadu-2.png])
 
 **Eolis** é uma antiga cidade élfica, conhecida pela sua abundância de paz e prosperidade, que fica localizada bem aos pés de uma enorme árvore conhecida como **"World Tree"**. Alguns eventos recentes, trouxeram a cidade uma série de desgraças que a deixaram completamente desolada, envolvida por medo e terror aos seus habitantes. Meteoros cairam da "World Tree" sobre a cidade, e vários monstros surgiram e começaram a atacar a cidade, dizimando assim muitos de sua população. As pessoas estão impedidas de buscar suprimentos, e a única fonte de água restante está contaminada por um veneno que matou muitos de seus habitantes. O tempo corre contra Eolis, e um mal desconhecido toma conta da Gigante "World Tree".
 
 Você  é um herói (um elfo sem nome) que retorna à cidade depois de uma longa jornada. E ao chegar, logo se espanta com tamanha desolação que caiu sobre a antes próspera Eolis. Ao entrar você descobre que precisa falar com o Rei. Ao encontrá-lo, o rei em tamanho desespero, disse que procurou alguém com coragem e destreza, enviou vários homens para adentrar a "World Tree", mas não obteve sucesso, e nenhum deles retornaram, e ainda diz que você é o único que pode salvar Eolis de tamanha desgraça.
 
-Assim você parte em busca para trazer de volta a vida em Eolis, sua principal missão, é buscar um antítodo que poderá tornar a fonte limpa novamente e lógico, destruir e banir todo mal que se encontra na World Tree.
+Assim você parte em busca para trazer de volta a vida em Eolis, sua principal missão, é buscar um antítodo que poderá tornar a fonte limpa e potável novamente, e lógico, destruir e banir todo mal que se encontra na World Tree.
 
 
 ### O Jogo:
@@ -53,18 +54,18 @@ A jogabilidade de Faxanadu, também é bem parecida com Zelda II, e lembra vagam
 
 No geral a jogabilidade agrada para quem já está acostumado com games deste estilo no NES, o que na verdade é um ponto fraco é sua física, por exemplo, quando seu personagem leva dano quando está no ar ou cai de uma plataforma, você pode reparar que as vezes ele cai de uma maneira estranha e rápida demais, mas nada que impede de gostar do game, mas pode te lembrar os terríveis momentos dos passáros que vinham nos penhascos de Ninja Gaiden. Os pulos também são esquisitos e desde o início você é obrigado a ter uma técnico de pulo no estilo do Mário, pulando sempre (mas sempre mesmo) das pontas das plataformas. Mas no geral, gera até um desafio, mas que pode acabar frustando alguns jogadores.
 
-![faxanadu]([file=faxanadu-8.png]) ![faxanadu]([file=faxanadu-9.png]) ![faxanadu]([file=faxanadu-10.png])
+![faxanadu]([file=faxanadu-8.png]) ![faxanadu]([file=faxanadu-9.png])
 
 ### Gráficos:
 
-Os gráficos são mesmos característicos de alguns games da época para o NES, com uma paleta bem limitada.Então no máximo que você vai ver aqui, é um gráfico "bom", considerando a época e seus recursos claro. Mas em estilo visual podemos dizer que agrada e muito, pois consegue capturar muito bem o ambiente apresentado pelo game, e em algumas partes do jogo até impressiona com o nível de detalhes como nos calabouços por exemplo.
+Os gráficos são mesmos característicos de alguns games da época para o NES, com uma paleta bem limitada. O personagem possui um nível de detalhe bem interessante quando completamente equipado, considerando a época e seus recursos claro. Mas em estilo visual podemos dizer que agrada e muito, pois consegue capturar muito bem o ambiente apresentado pelo game, e em algumas partes do jogo, impressiona bastante com o nível de detalhes nos calabouços e alguns cenários por exemplo.
 
 ### Design:
 
 O Design das fases e cidades também agradam, mas o ponto forte aqui com certeza são as fortalezas que são bem mais trabalhadas. Os inimigos também variam bastante no início e com poucas horas de jogo você consegue passar por vários tipos. E alguns deles exigem bastante estratégia para serem derrotados, pois possuem movimentos peculiares que dificultam
 somente se aproximar e desferir golpes sequenciais. Mas isto acaba deixando o game ainda mais desafiador e pode dar uma boa dor de cabeça em quem arriscar um "beat'em up". Também há várias estratégias, como pontos e locais específicos em que os inimigos não lhe acertam, mas exige um pouco de paciência, mas no geral o design das fases é muito bom.
 
-![faxanadu]([file=faxanadu-11.png]) ![faxanadu]([file=faxanadu-12.png]) ![faxanadu]([file=faxanadu-13.png])
+![faxanadu]([file=faxanadu-11.png]) ![faxanadu]([file=faxanadu-13.png])
 
 ### Som:
 
@@ -83,6 +84,12 @@ Faxanadu é realmente um game que vale a pena ser jogado, claro que para nós re
 ### Curiosidades:
 
 - Como falei anteriormente o game pertence a série Dragon Slayer da Nihon Falcom, mas foi desenvolvido pela Hudson, inspirado em Dragon Slayer II :Xanadu. O nome deriva da sigla Famicom + Xanadu.
+
+
 - O game também é considerado um dos 100 melhores games do NES pela [IGN](http://www.ign.com/top-100-nes-games/36.html), agraciando a #36ª posição.
+
+
 - As músicas do game foram compostas por Jun Chikuma, que possui uma lista de trabalhos majestosos em games que você talvez nem imagina, veja a lista [aqui em Giant Bomb](http://www.giantbomb.com/jun-chikuma/3040-75779/).
+
+
 - Uma lista de fãs incontaveis reproduziram várias versões da música principal Overworld (muito boa) [Veja aqui uma delas](https://www.youtube.com/watch?v=EniggNb1iZY) e [aqui também](https://www.youtube.com/watch?v=pKv2UHiOY-8)
