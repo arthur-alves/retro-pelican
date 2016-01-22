@@ -46,7 +46,7 @@ Assim como todo Action-RPG você precisa buscar suprimentos, ouro, e equipamento
 
 As pessoas da cidade lhe oferecem algumas informações importantes no decorrer do game. Você começa sem armas, e eles lhe dão dicas que precisa comprar armas e até mesmo pessoas que você precisa visitar para dar continuidade a história do game. Um ponto forte neste game que eu penso é que as frases dos npc's são sempre direta, objetivas e sem muitas falácias, sem ser robótico demais, como acontece em muitos games, deixando você mais livre para dividir bem o game entre ação e busca por pistas rápidas, deixando a exploração por sua conta.
 
-![faxanadu]([file=faxanadu-5.png])  ![faxanadu]([file=faxanadu-9.png])  ![faxanadu]([file=faxanadu-7.png])
+![faxanadu]([file=faxanadu-5.png])  ![faxanadu]([file=faxanadu-9.png])
 
 ### Jogabilidade:
 
@@ -65,7 +65,7 @@ Os gráficos são mesmos característicos de alguns games da época para o NES, 
 O Design das fases e cidades também agradam, mas o ponto forte aqui com certeza são as fortalezas que são bem mais trabalhadas. Os inimigos também variam bastante no início e com poucas horas de jogo você consegue passar por vários tipos. E alguns deles exigem bastante estratégia para serem derrotados, pois possuem movimentos peculiares que dificultam
 somente se aproximar e desferir golpes sequenciais. Mas isto acaba deixando o game ainda mais desafiador e pode dar uma boa dor de cabeça em quem arriscar um "beat'em up". Também há várias estratégias, como pontos e locais específicos em que os inimigos não lhe acertam, mas exige um pouco de paciência, mas no geral o design das fases é muito bom.
 
-![faxanadu]([file=faxanadu-11.png]) ![faxanadu]([file=faxanadu-13.png])
+![faxanadu]([file=faxanadu-7.png]) ![faxanadu]([file=faxanadu-13.png])
 
 ### Som:
 
