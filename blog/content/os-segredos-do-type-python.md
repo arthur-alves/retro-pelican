@@ -1,5 +1,5 @@
-Title: Os segredos do type do Python
-Slug: os-segredos-do-type-do-python
+Title: Os segredos sombrios do type
+Slug: os-segredos-sombrios-de-type
 Date: 2016-01-22 06:30
 Tags: tutorial,python,builtin
 Author: Arthur Alves
@@ -93,29 +93,29 @@ Outro exemplo para melhor clarificação:
 
 ```python
 class Foo(object):
-    def __init__(self, greet):
-        print greet
+    def __init__(self):
+        print "Hello {}".format(self.__class__.__name__)
 
-foo = Foo("Hello Foo class")
+foo = Foo()
 
 print Foo.__base__
 
 # Imprime:
-# Hello Foo class
+# Hello Foo
 # <type 'object'>
 
 
 # Herdando de Foo
-Bar = type('Bar', (Foo,), {'bar':'Bar class attr'})
+Bar = type('Bar', (Foo,), {'bar':'Atributo bar'})
 
-bar = Bar("Hello Bar class")
+bar = Bar()
 print bar.bar
 
 print Bar.__base__
 
 # Imprime:
-# Hello Bar class
-# Bar class attr
+# Hello Bar
+# Atributo bar
 # <class '__main__.Foo'>
 
 ```
@@ -126,9 +126,7 @@ Criamos a classe **Foo** da maneira tradicional em python, e depois criamos **Ba
 
 ###Utilidade
 
-A utilidade de criar classes com type podem ou não ser vantajosas, isto depende do uso, mas um exemplo
-de uso comum, é para criar classes dinâmicas que precisam de heranças, atributos e comportamentos diferentes
-de acordo com a necessidade, simplesmente passando objetos dinamicos seguindo a ordem:
+A utilidade de criar classes com type podem ou não ser vantajosas, isto depende do uso, mas um exemplo comum, é quando utilizado para criar classes dinâmicas que precisam de heranças, atributos e comportamentos diferentes de acordo com a necessidade, simplesmente passando objetos dinamicos seguindo a ordem:
 
 ```python
 

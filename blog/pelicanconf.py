@@ -31,7 +31,7 @@ MAIN_MENU = True
 
 # Social widget
 SOCIAL = (('github', 'http://github.com/arthur-alves'),
-          ('twitter', 'twitter.com/arthur_4lves'),
+          ('twitter', 'http://twitter.com/arthur_4lves'),
           ('linkedin', 'https://www.linkedin.com/in/arthur4lves'),)
 
 DEFAULT_PAGINATION = 10
