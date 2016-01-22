@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,400italic' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" type="text/css" href="http://localhost:8000/theme/css/style.min.css">
+  <link rel="stylesheet" type="text/css" href="http://localhost:8000/theme/css/pygments.min.css">
+  <link rel="stylesheet" type="text/css" href="http://localhost:8000/theme/css/font-awesome.min.css">
+
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="" />
+<meta name="author" content="Arthur Alves" />
+<meta name="description" content="Sobre o type: O type tem um uso comum em várias linguagens, que é de verificar os tipos dos objetos em Python, assim como em Javascript (typeof) você verifica os tipos de variáveis e objetos como String, Number, Array e etc. Porém, no Python type é muito importante e poderoso ..." />
+<meta name="keywords" content="tutorial, python, builtin">
+<meta property="og:site_name" content="Arthur Alves Devlog"/>
+<meta property="og:title" content="Os segredos do poderoso type do Python"/>
+<meta property="og:description" content="Sobre o type: O type tem um uso comum em várias linguagens, que é de verificar os tipos dos objetos em Python, assim como em Javascript (typeof) você verifica os tipos de variáveis e objetos como String, Number, Array e etc. Porém, no Python type é muito importante e poderoso ..."/>
+<meta property="og:locale" content="en_US"/>
+<meta property="og:url" content="http://localhost:8000/os-segredos-do-poderoso-type-python.html"/>
+<meta property="og:type" content="article"/>
+<meta property="article:published_time" content="2016-01-22 06:30:00-02:00"/>
+<meta property="article:modified_time" content=""/>
+<meta property="article:author" content="http://localhost:8000/author/arthur-alves.html">
+<meta property="article:section" content="Builtin"/>
+<meta property="article:tag" content="tutorial"/>
+<meta property="article:tag" content="python"/>
+<meta property="article:tag" content="builtin"/>
+<meta property="og:image" content="">  <title>Arthur Alves Devlog &ndash; Os segredos do poderoso type do Python</title>
+</head>
+<body>
+  <aside>
+    <div>
+      <a href="http://localhost:8000">
+        <img src="http://localhost:8000/theme/img/profile.png" alt="Arthur Alves" title="Arthur Alves">
+      </a>
+      <h1><a href="http://localhost:8000">Arthur Alves</a></h1>
+      <p>Fullstack Developer - Pythonista</p>
+      <nav>
+        <ul class="list">
+        </ul>
+      </nav>
+      <ul class="social">
+        <li><a class="sc-github" href="http://github.com/arthur-alves" target="_blank"><i class="fa fa-github"></i></a></li>
+        <li><a class="sc-twitter" href="twitter.com/arthur_4lves" target="_blank"><i class="fa fa-twitter"></i></a></li>
+        <li><a class="sc-linkedin" href="https://www.linkedin.com/in/arthur4lves" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+      </ul>
+    </div>
+  </aside>
+  <main>
+    <nav>
+      <a href="http://localhost:8000">Home</a>
+    </nav>
+
+<article>
+  <header>
+    <h1 id="os-segredos-do-poderoso-type-python">Os segredos do poderoso type do Python</h1>
+    <p>Posted on Sex 22 janeiro 2016 in <a href="http://localhost:8000/category/builtin.html">Builtin</a></p>
+  </header>
+  <div>
+    <h3>Sobre o type:</h3>
+<p>O type tem um uso comum em várias linguagens, que é de verificar os tipos dos objetos em Python,
+assim como em <em>Javascript</em> (<em>typeof</em>) você verifica os tipos de variáveis e objetos como String, Number, Array e etc.
+Porém, no Python type é muito importante e poderoso, pois ele é o ator principal e base de todos os objetos
+Python. Vamos ver com nossos próprios olhos. Abra o <em>python</em> no terminal e digite:</p>
+<div class="highlight"><pre><span class="n">In</span> <span class="p">[</span><span class="mi">1</span><span class="p">]:</span> <span class="k">print</span> <span class="nb">str</span><span class="o">.</span><span class="n">__class__</span>
+<span class="n">Out</span><span class="p">[</span><span class="mi">1</span><span class="p">]:</span> <span class="nb">type</span>
+
+
+<span class="n">In</span> <span class="p">[</span><span class="mi">2</span><span class="p">]:</span> <span class="k">print</span> <span class="nb">int</span><span class="o">.</span><span class="n">__class__</span>
+<span class="n">Out</span><span class="p">[</span><span class="mi">2</span><span class="p">]:</span> <span class="nb">type</span>
+</pre></div>
+
+
+<p>Ou simplesmente:</p>
+<div class="highlight"><pre><span class="n">In</span> <span class="p">[</span><span class="mi">3</span><span class="p">]:</span> <span class="k">print</span> <span class="nb">type</span><span class="p">(</span><span class="nb">float</span><span class="p">)</span>
+<span class="n">Out</span><span class="p">[</span><span class="mi">3</span><span class="p">]:</span> <span class="nb">type</span>
+
+<span class="n">In</span> <span class="p">[</span><span class="mi">3</span><span class="p">]:</span> <span class="k">print</span> <span class="nb">type</span><span class="p">(</span><span class="nb">type</span><span class="p">)</span>
+<span class="n">Out</span><span class="p">[</span><span class="mi">3</span><span class="p">]:</span> <span class="nb">type</span>
+</pre></div>
+
+
+<p>Podemos dizer que <em>type</em> é a base de todos os tipos de objetos em python. Tudo em python é vem dele.</p>
+<p>"Mas como assim type é a base de tudo em Python", você deve se perguntar. Vamos ver seu poder
+obscuro e talvez menos desconhecido.</p>
+<h3>Os poderes sombrios de type:</h3>
+<p>O tipo <em>type</em> quando chamado com um argumento apenas lhe devolve o tipo do objeto em questão, porém
+ele aceita mais 2 argumentos, que quando usados, produzem um resultado que talvez poucos conheçam, repare bem no exemplo abaixo:</p>
+<div class="highlight"><pre><span class="c"># Criando uma classe da maneira tradicional em python</span>
+<span class="k">class</span> <span class="nc">Foo</span><span class="p">(</span><span class="nb">object</span><span class="p">):</span>
+    <span class="n">foo</span> <span class="o">=</span> <span class="s">&#39;Foo class&#39;</span>
+
+<span class="c"># Imprimindo o atributo foo de Test</span>
+<span class="n">In</span> <span class="p">[</span><span class="mi">1</span><span class="p">]:</span> <span class="n">Foo</span><span class="o">.</span><span class="n">foo</span>
+<span class="n">Out</span><span class="p">[</span><span class="mi">1</span><span class="p">]:</span> <span class="s">&#39;Foo class&#39;</span>
+
+
+<span class="c"># Criando uma class utilizando os poderes de type</span>
+<span class="n">Bar</span> <span class="o">=</span> <span class="nb">type</span><span class="p">(</span><span class="s">&#39;Bar&#39;</span><span class="p">,</span> <span class="p">(),</span> <span class="p">{</span><span class="s">&#39;bar&#39;</span><span class="p">:</span> <span class="s">&#39;Bar class&#39;</span><span class="p">})</span>
+
+<span class="c"># Imprimindo o atributo foo de Test criado pelo type</span>
+<span class="n">In</span> <span class="p">[</span><span class="mi">2</span><span class="p">]:</span> <span class="n">Bar</span><span class="o">.</span><span class="n">bar</span>
+<span class="n">Out</span><span class="p">[</span><span class="mi">2</span><span class="p">]:</span> <span class="s">&#39;Bar class&#39;</span>
+</pre></div>
+
+
+<p>Incrível não? Agora vamos ver quais argumentos precisamos para criar uma classe utilizando <em>type</em>.</p>
+<div class="highlight"><pre><span class="c"># Veja o exemplo abaixo</span>
+<span class="nb">type</span><span class="p">([</span><span class="nb">str</span><span class="p">],</span> <span class="p">[</span><span class="nb">tuple</span><span class="p">],</span> <span class="p">[</span><span class="nb">dict</span><span class="p">])</span>
+</pre></div>
+
+
+<p><strong>Args</strong>:</p>
+<p>1 - argumento é uma string que vai ser o nome base da sua classe</p>
+<p>2 - argumento é uma tupla com os objetos(classes) que você quer herdar por exemplo <em>object</em></p>
+<p>3 - argumento é um dicionário com as propriedades que sua classe deve possuir.</p>
+<p>Outro exemplo para melhor clarificação:</p>
+<div class="highlight"><pre><span class="k">class</span> <span class="nc">Foo</span><span class="p">(</span><span class="nb">object</span><span class="p">):</span>
+    <span class="k">def</span> <span class="nf">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">greet</span><span class="p">):</span>
+        <span class="k">print</span> <span class="n">greet</span>
+
+<span class="n">foo</span> <span class="o">=</span> <span class="n">Foo</span><span class="p">(</span><span class="s">&quot;Hello Foo class&quot;</span><span class="p">)</span>
+
+<span class="k">print</span> <span class="n">Foo</span><span class="o">.</span><span class="n">__base__</span>
+
+<span class="c"># Imprime:</span>
+<span class="c"># Hello Foo class</span>
+<span class="c"># &lt;type &#39;object&#39;&gt;</span>
+
+
+
+<span class="n">Bar</span> <span class="o">=</span> <span class="nb">type</span><span class="p">(</span><span class="s">&#39;Bar&#39;</span><span class="p">,</span> <span class="p">(</span><span class="n">Foo</span><span class="p">,),</span> <span class="p">{</span><span class="s">&#39;bar&#39;</span><span class="p">:</span><span class="s">&#39;Bar class attr&#39;</span><span class="p">})</span>
+
+<span class="n">bar</span> <span class="o">=</span> <span class="n">Bar</span><span class="p">(</span><span class="s">&quot;Hello Bar class&quot;</span><span class="p">)</span>
+<span class="k">print</span> <span class="n">bar</span><span class="o">.</span><span class="n">bar</span>
+
+<span class="k">print</span> <span class="n">Bar</span><span class="o">.</span><span class="n">__base__</span>
+
+<span class="c"># Imprime:</span>
+<span class="c"># Hello Bar class</span>
+<span class="c"># Bar class attr</span>
+<span class="c"># &lt;class &#39;__main__.Foo&#39;&gt;</span>
+</pre></div>
+
+
+<p><strong>Explicando:</strong>
+Criamos a classe <strong>Foo</strong> da maneira tradicional em python, e depois criamos <strong>Bar</strong> utilizando
+type e herdando características de <strong>Foo</strong> e adicionando um atributo com o nome de <em>"bar"</em>. Veja que o funcionamento
+é identico para criar uma classe da maneira tradicional ou com type.</p>
+<h3>Utilidade</h3>
+<p>A utilidade de criar classes com type podem ou não ser muitas, isto depende de você, mas um exemplo
+de uso comum é para criar classes dinâmicas, que precisem de heranças, atributos e comportamentos diferentes
+de acordo com sua necessidade, simplesmente passando objetos dinamicos seguindo a ordem:</p>
+<div class="highlight"><pre><span class="nb">type</span><span class="p">([</span><span class="nb">str</span><span class="p">],</span> <span class="p">[</span><span class="nb">tuple</span><span class="p">],</span> <span class="p">[</span><span class="nb">dict</span><span class="p">])</span>
+<span class="c"># str(nome), tuple(classe) e dict(atributos)</span>
+</pre></div>
+
+
+<p>Para não digitar mais nenhum exemplo chato, vamos ver um uso de verdade. Clique no link
+abaixo e veja seu uso na Lib sandman(que é utilizada para criar APIs REST dinamicas com base em um banco de dados sem
+muito esforço)</p>
+<p><a href="https://github.com/jeffknupp/sandman/blob/develop/sandman/model/utils.py#L147"><strong>Github sandman</strong></a></p>
+<p>Espero que tenham gostado, e espero que possa ser útil pra você, como acabou sendo para mim.</p>
+  </div>
+  <div class="tag-cloud">
+    <p>
+      <a href="http://localhost:8000/tag/tutorial.html">tutorial</a>
+      <a href="http://localhost:8000/tag/python.html">python</a>
+      <a href="http://localhost:8000/tag/builtin.html">builtin</a>
+    </p>
+  </div>
+</article>
+
+    <footer>
+        <p>&copy; Arthur Alves </p>
+<p>Built using <a href="http://getpelican.com" target="_blank">Pelican</a> - <a href="https://github.com/alexandrevicenzi/flex" target="_blank">Flex</a> theme by <a href="http://alexandrevicenzi.com" target="_blank">Alexandre Vicenzi</a></p>    </footer>
+  </main>
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "name": "Os segredos do poderoso type do Python",
+  "headline": "Os segredos do poderoso type do Python",
+  "datePublished": "2016-01-22 06:30:00-02:00",
+  "dateModified": "",
+  "author": {
+    "@type": "Person",
+    "name": "Arthur Alves",
+    "url": "http://localhost:8000/author/arthur-alves.html"
+  },
+  "image": "{{ SITEURL }}/{{ THEME_STATIC_DIR }}/img/profile.png",
+  "url": "http://localhost:8000/os-segredos-do-poderoso-type-python.html",
+  "description": "Sobre o type: O type tem um uso comum em várias linguagens, que é de verificar os tipos dos objetos em Python, assim como em Javascript (typeof) você verifica os tipos de variáveis e objetos como String, Number, Array e etc. Porém, no Python type é muito importante e poderoso ..."
+}
+</script></body>
+</html>
