@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Arthur Alves'
 SITENAME = u'Fullstack Arthur'
-SITEURL = u'http://localhost:8000'
+SITEURL = u'http://arthur-alves.github.io'
 SITENAME = u"Arthur Alves Devlog"
 SITETITLE = AUTHOR
 SITESUBTITLE = u'Fullstack Developer - Pythonista'
