@@ -23,6 +23,7 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+DISQUS_SITENAME = 'arthuralvesfullstackdeveloper'
 
 MAIN_MENU = True
 
